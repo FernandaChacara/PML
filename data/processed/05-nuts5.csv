@@ -1,0 +1,3093 @@
+codes,parent_code,Nível,Código,Designação
+111160101,1111601,5,160101,Aboim das Choças
+111160102,1111601,5,160102,Aguiã
+111160104,1111601,5,160104,Ázere
+111160105,1111601,5,160105,Cabana Maior
+111160106,1111601,5,160106,Cabreiro
+111160108,1111601,5,160108,Cendufe
+111160109,1111601,5,160109,Couto
+111160113,1111601,5,160113,Gavieira
+111160115,1111601,5,160115,Gondoriz
+111160142,1111601,5,160142,Jolda (São Paio)
+111160121,1111601,5,160121,Miranda
+111160122,1111601,5,160122,Monte Redondo
+111160123,1111601,5,160123,Oliveira
+111160124,1111601,5,160124,Paçô
+111160125,1111601,5,160125,Padroso
+111160128,1111601,5,160128,Prozelo
+111160131,1111601,5,160131,Rio de Moinhos
+111160130,1111601,5,160130,Rio Frio
+111160133,1111601,5,160133,Sabadim
+111160144,1111601,5,160144,Senharei
+111160145,1111601,5,160145,Sistelo
+111160146,1111601,5,160146,Soajo
+111160152,1111601,5,160152,União das freguesias de Alvora e Loureda
+111160154,1111601,5,160154,"União das freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada"
+111160153,1111601,5,160153,União das freguesias de Arcos de Valdevez (São Paio) e Giela
+111160155,1111601,5,160155,União das freguesias de Eiras e Mei
+111160156,1111601,5,160156,União das freguesias de Grade e Carralcova
+111160157,1111601,5,160157,União das freguesias de Guilhadeses e Santar
+111160158,1111601,5,160158,União das freguesias de Jolda (Madalena) e Rio Cabrão
+111160159,1111601,5,160159,União das freguesias de Padreiro (Salvador e Santa Cristina)
+111160160,1111601,5,160160,União das freguesias de Portela e Extremo
+111160161,1111601,5,160161,União das freguesias de São Jorge e Ermelo
+111160162,1111601,5,160162,União das freguesias de Souto e Tabaçô
+111160163,1111601,5,160163,União das freguesias de Távora (Santa Maria e São Vicente)
+111160164,1111601,5,160164,"União das freguesias de Vilela, São Cosme e São Damião e Sá"
+111160149,1111601,5,160149,Vale
+111160201,1111602,5,160201,Âncora
+111160205,1111602,5,160205,Argela
+111160209,1111602,5,160209,Dem
+111160211,1111602,5,160211,Lanhelas
+111160214,1111602,5,160214,Riba de Âncora
+111160215,1111602,5,160215,Seixas
+111160221,1111602,5,160221,"União das freguesias de Arga (Baixo, Cima e São João)"
+111160222,1111602,5,160222,União das freguesias de Caminha (Matriz) e Vilarelho
+111160223,1111602,5,160223,União das freguesias de Gondar e Orbacém
+111160224,1111602,5,160224,União das freguesias de Moledo e Cristelo
+111160225,1111602,5,160225,União das freguesias de Venade e Azevedo
+111160217,1111602,5,160217,Vila Praia de Âncora
+111160218,1111602,5,160218,Vilar de Mouros
+111160220,1111602,5,160220,Vile
+111160301,1111603,5,160301,Alvaredo
+111160304,1111603,5,160304,Cousso
+111160305,1111603,5,160305,Cristoval
+111160307,1111603,5,160307,Fiães
+111160308,1111603,5,160308,Gave
+111160311,1111603,5,160311,Paderne
+111160313,1111603,5,160313,Penso
+111160317,1111603,5,160317,São Paio
+111160319,1111603,5,160319,União das freguesias de Castro Laboreiro e Lamas de Mouro
+111160320,1111603,5,160320,União das freguesias de Chaviães e Paços
+111160321,1111603,5,160321,União das freguesias de Parada do Monte e Cubalhão
+111160322,1111603,5,160322,União das freguesias de Prado e Remoães
+111160323,1111603,5,160323,União das freguesias de Vila e Roussas
+111160401,1111604,5,160401,Abedim
+111160404,1111604,5,160404,Barbeita
+111160405,1111604,5,160405,Barroças e Taias
+111160406,1111604,5,160406,Bela
+111160407,1111604,5,160407,Cambeses
+111160410,1111604,5,160410,Lara
+111160411,1111604,5,160411,Longos Vales
+111160415,1111604,5,160415,Merufe
+111160418,1111604,5,160418,Moreira
+111160420,1111604,5,160420,Pias
+111160421,1111604,5,160421,Pinheiros
+111160422,1111604,5,160422,Podame
+111160423,1111604,5,160423,Portela
+111160424,1111604,5,160424,Riba de Mouro
+111160427,1111604,5,160427,Segude
+111160428,1111604,5,160428,Tangil
+111160431,1111604,5,160431,Trute
+111160434,1111604,5,160434,União das freguesias de Anhões e Luzio
+111160435,1111604,5,160435,União das freguesias de Ceivães e Badim
+111160436,1111604,5,160436,União das freguesias de Mazedo e Cortes
+111160437,1111604,5,160437,"União das freguesias de Messegães, Valadares e Sá"
+111160438,1111604,5,160438,União das freguesias de Monção e Troviscoso
+111160439,1111604,5,160439,"União das freguesias de Sago, Lordelo e Parada"
+111160440,1111604,5,160440,União das freguesias de Troporiz e Lapela
+111160501,1111605,5,160501,Agualonga
+111160503,1111605,5,160503,Castanheira
+111160505,1111605,5,160505,Coura
+111160507,1111605,5,160507,Cunha
+111160510,1111605,5,160510,Infesta
+111160513,1111605,5,160513,Mozelos
+111160514,1111605,5,160514,Padornelo
+111160515,1111605,5,160515,Parada
+111160519,1111605,5,160519,Romarigães
+111160520,1111605,5,160520,Rubiães
+111160522,1111605,5,160522,União das freguesias de Bico e Cristelo
+111160523,1111605,5,160523,União das freguesias de Cossourado e Linhares
+111160524,1111605,5,160524,União das freguesias de Formariz e Ferreira
+111160525,1111605,5,160525,União das freguesias de Insalde e Porreiras
+111160526,1111605,5,160526,União das freguesias de Paredes de Coura e Resende
+111160521,1111605,5,160521,Vascões
+111160601,1111606,5,160601,Azias
+111160602,1111606,5,160602,Boivães
+111160603,1111606,5,160603,Bravães
+111160604,1111606,5,160604,Britelo
+111160606,1111606,5,160606,Cuide de Vila Verde
+111160611,1111606,5,160611,Lavradas
+111160612,1111606,5,160612,Lindoso
+111160613,1111606,5,160613,Nogueira
+111160614,1111606,5,160614,Oleiros
+111160619,1111606,5,160619,Sampriz
+111160626,1111606,5,160626,"União das freguesias de Crasto, Ruivos e Grovelas"
+111160627,1111606,5,160627,"União das freguesias de Entre Ambos-os-Rios, Ermida e Germil"
+111160628,1111606,5,160628,"União das freguesias de Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães"
+111160629,1111606,5,160629,União das freguesias de Touvedo (São Lourenço e Salvador)
+111160630,1111606,5,160630,União das freguesias de Vila Chã (São João Baptista e Santiago)
+111160623,1111606,5,160623,Vade (São Pedro)
+111160624,1111606,5,160624,Vade (São Tomé)
+111160701,1111607,5,160701,Anais
+111160752,1111607,5,160752,Arca e Ponte de Lima
+111160704,1111607,5,160704,Arcozelo
+111160753,1111607,5,160753,"Ardegão, Freixo e Mato"
+111160754,1111607,5,160754,Associação de freguesias do Vale do Neiva
+111160755,1111607,5,160755,Bárrio e Cepões
+111160707,1111607,5,160707,Beiral do Lima
+111160708,1111607,5,160708,Bertiandos
+111160709,1111607,5,160709,Boalhosa
+111160710,1111607,5,160710,Brandara
+111160756,1111607,5,160756,Cabaços e Fojo Lobal
+111160757,1111607,5,160757,Cabração e Moreira do Lima
+111160713,1111607,5,160713,Calheiros
+111160714,1111607,5,160714,Calvelo
+111160716,1111607,5,160716,Correlhã
+111160717,1111607,5,160717,Estorãos
+111160718,1111607,5,160718,Facha
+111160719,1111607,5,160719,Feitosa
+111160721,1111607,5,160721,Fontão
+111160758,1111607,5,160758,Fornelos e Queijada
+111160724,1111607,5,160724,Friastelas
+111160726,1111607,5,160726,Gandra
+111160727,1111607,5,160727,Gemieira
+111160728,1111607,5,160728,Gondufe
+111160729,1111607,5,160729,Labruja
+111160759,1111607,5,160759,"Labrujó, Rendufe e Vilar do Monte"
+111160760,1111607,5,160760,Navió e Vitorino dos Piães
+111160734,1111607,5,160734,Poiares
+111160744,1111607,5,160744,Rebordões (Santa Maria)
+111160747,1111607,5,160747,Rebordões (Souto)
+111160737,1111607,5,160737,Refóios do Lima
+111160739,1111607,5,160739,Ribeira
+111160740,1111607,5,160740,Sá
+111160742,1111607,5,160742,Santa Comba
+111160743,1111607,5,160743,Santa Cruz do Lima
+111160703,1111607,5,160703,São Pedro d'Arcos
+111160745,1111607,5,160745,Seara
+111160746,1111607,5,160746,Serdedelo
+111160750,1111607,5,160750,Vitorino das Donas
+111160802,1111608,5,160802,Boivão
+111160803,1111608,5,160803,Cerdal
+111160805,1111608,5,160805,Fontoura
+111160806,1111608,5,160806,Friestas
+111160808,1111608,5,160808,Ganfei
+111160812,1111608,5,160812,São Pedro da Torre
+111160817,1111608,5,160817,União das freguesias de Gandra e Taião
+111160818,1111608,5,160818,União das freguesias de Gondomil e Sanfins
+111160819,1111608,5,160819,União das freguesias de São Julião e Silva
+111160820,1111608,5,160820,"União das freguesias de Valença, Cristelo Covo e Arão"
+111160816,1111608,5,160816,Verdoejo
+111160901,1111609,5,160901,Afife
+111160902,1111609,5,160902,Alvarães
+111160903,1111609,5,160903,Amonde
+111160904,1111609,5,160904,Anha
+111160905,1111609,5,160905,Areosa
+111160908,1111609,5,160908,Carreço
+111160910,1111609,5,160910,Castelo do Neiva
+111160940,1111609,5,160940,Chafé
+111160911,1111609,5,160911,Darque
+111160914,1111609,5,160914,Freixieiro de Soutelo
+111160915,1111609,5,160915,Lanheses
+111160920,1111609,5,160920,Montaria
+111160922,1111609,5,160922,Mujães
+111160925,1111609,5,160925,Outeiro
+111160926,1111609,5,160926,Perre
+111160928,1111609,5,160928,Santa Marta de Portuzelo
+111160923,1111609,5,160923,São Romão de Neiva
+111160941,1111609,5,160941,União das freguesias de Barroselas e Carvoeiro
+111160942,1111609,5,160942,União das freguesias de Cardielos e Serreleis
+111160943,1111609,5,160943,"União das freguesias de Geraz do Lima (Santa Maria, Santa Leocádia e Moreira) e Deão"
+111160944,1111609,5,160944,União das freguesias de Mazarefes e Vila Fria
+111160945,1111609,5,160945,"União das freguesias de Nogueira, Meixedo e Vilar de Murteda"
+111160946,1111609,5,160946,"União das freguesias de Subportela, Deocriste e Portela Susã"
+111160947,1111609,5,160947,União das freguesias de Torre e Vila Mou
+111160948,1111609,5,160948,União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela
+111160938,1111609,5,160938,Vila de Punhe
+111160935,1111609,5,160935,Vila Franca
+111161003,1111610,5,161003,Cornes
+111161004,1111610,5,161004,Covas
+111161006,1111610,5,161006,Gondarém
+111161007,1111610,5,161007,Loivo
+111161009,1111610,5,161009,Mentrestido
+111161012,1111610,5,161012,Sapardos
+111161013,1111610,5,161013,Sopo
+111161016,1111610,5,161016,União das freguesias de Campos e Vila Meã
+111161017,1111610,5,161017,União das freguesias de Candemil e Gondar
+111161018,1111610,5,161018,União das freguesias de Reboreda e Nogueira
+111161019,1111610,5,161019,União das freguesias de Vila Nova de Cerveira e Lovelhe
+112030102,1120301,5,030102,Barreiros
+112030104,1120301,5,030104,Bico
+112030119,1120301,5,030119,Bouro (Santa Maria)
+112030120,1120301,5,030120,Bouro (Santa Marta)
+112030105,1120301,5,030105,Caires
+112030107,1120301,5,030107,Carrazedo
+112030108,1120301,5,030108,Dornelas
+112030111,1120301,5,030111,Fiscal
+112030112,1120301,5,030112,Goães
+112030113,1120301,5,030113,Lago
+112030118,1120301,5,030118,Rendufe
+112030125,1120301,5,030125,União das freguesias de Amares e Figueiredo
+112030126,1120301,5,030126,"União das freguesias de Caldelas, Sequeiros e Paranhos"
+112030127,1120301,5,030127,"União das freguesias de Ferreiros, Prozelo e Besteiros"
+112030128,1120301,5,030128,União das freguesias de Torre e Portela
+112030129,1120301,5,030129,"União das freguesias de Vilela, Seramil e Paredes Secas"
+112030201,1120302,5,030201,Abade de Neiva
+112030202,1120302,5,030202,Aborim
+112030203,1120302,5,030203,Adães
+112030205,1120302,5,030205,Airó
+112030206,1120302,5,030206,Aldreu
+112030208,1120302,5,030208,Alvelos
+112030209,1120302,5,030209,Arcozelo
+112030210,1120302,5,030210,Areias
+112030212,1120302,5,030212,Balugães
+112030213,1120302,5,030213,Barcelinhos
+112030215,1120302,5,030215,Barqueiros
+112030216,1120302,5,030216,Cambeses
+112030218,1120302,5,030218,Carapeços
+112030220,1120302,5,030220,Carvalhal
+112030221,1120302,5,030221,Carvalhas
+112030224,1120302,5,030224,Cossourado
+112030228,1120302,5,030228,Cristelo
+112030234,1120302,5,030234,Fornelos
+112030235,1120302,5,030235,Fragoso
+112030268,1120302,5,030268,Galegos (Santa Maria)
+112030272,1120302,5,030272,Galegos (São Martinho)
+112030237,1120302,5,030237,Gilmonde
+112030242,1120302,5,030242,Lama
+112030243,1120302,5,030243,Lijó
+112030244,1120302,5,030244,Macieira de Rates
+112030245,1120302,5,030245,Manhente
+112030247,1120302,5,030247,Martim
+112030252,1120302,5,030252,Moure
+112030254,1120302,5,030254,Oliveira
+112030255,1120302,5,030255,Palme
+112030256,1120302,5,030256,Panque
+112030257,1120302,5,030257,Paradela
+112030259,1120302,5,030259,Pereira
+112030260,1120302,5,030260,Perelhal
+112030261,1120302,5,030261,Pousa
+112030263,1120302,5,030263,Remelhe
+112030265,1120302,5,030265,Rio Covo (Santa Eugénia)
+112030264,1120302,5,030264,Roriz
+112030279,1120302,5,030279,Silva
+112030277,1120302,5,030277,Tamel (São Veríssimo)
+112030282,1120302,5,030282,Ucha
+112030290,1120302,5,030290,União das freguesias de Alheira e Igreja Nova
+112030291,1120302,5,030291,União das freguesias de Alvito (São Pedro e São Martinho) e Couto
+112030292,1120302,5,030292,União das freguesias de Areias de Vilar e Encourados
+112030293,1120302,5,030293,"União das freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)"
+112030294,1120302,5,030294,União das freguesias de Campo e Tamel (São Pedro Fins)
+112030295,1120302,5,030295,União das freguesias de Carreira e Fonte Coberta
+112030296,1120302,5,030296,"União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral"
+112030297,1120302,5,030297,União das freguesias de Creixomil e Mariz
+112030298,1120302,5,030298,União das freguesias de Durrães e Tregosa
+112030299,1120302,5,030299,União das freguesias de Gamil e Midões
+1120302FA,1120302,5,0302FA,"União das freguesias de Milhazes, Vilar de Figos e Faria"
+1120302FB,1120302,5,0302FB,União das freguesias de Negreiros e Chavão
+1120302FC,1120302,5,0302FC,União das freguesias de Quintiães e Aguiar
+1120302FD,1120302,5,0302FD,União das freguesias de Sequeade e Bastuço (São João e Santo Estevão)
+1120302FE,1120302,5,0302FE,União das freguesias de Silveiros e Rio Covo (Santa Eulália)
+1120302FF,1120302,5,0302FF,União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte
+1120302FG,1120302,5,0302FG,"União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães"
+1120302FH,1120302,5,0302FH,União das freguesias de Vila Cova e Feitos
+112030283,1120302,5,030283,Várzea
+112030287,1120302,5,030287,Vila Seca
+112030301,1120303,5,030301,Adaúfe
+112030349,1120303,5,030349,Braga (São Vicente)
+112030351,1120303,5,030351,Braga (São Vítor)
+112030312,1120303,5,030312,Espinho
+112030313,1120303,5,030313,Esporões
+112030315,1120303,5,030315,Figueiredo
+112030319,1120303,5,030319,Gualtar
+112030322,1120303,5,030322,Lamas
+112030325,1120303,5,030325,Mire de Tibães
+112030330,1120303,5,030330,Padim da Graça
+112030331,1120303,5,030331,Palmeira
+112030334,1120303,5,030334,Pedralva
+112030336,1120303,5,030336,Priscos
+112030338,1120303,5,030338,Ruilhe
+112030354,1120303,5,030354,Sequeira
+112030355,1120303,5,030355,Sobreposta
+112030356,1120303,5,030356,Tadim
+112030357,1120303,5,030357,Tebosa
+112030363,1120303,5,030363,União das freguesias de Arentim e Cunha
+112030364,1120303,5,030364,"União das freguesias de Braga (Maximinos, Sé e Cividade)"
+112030365,1120303,5,030365,União das freguesias de Braga (São José de São Lázaro e São João do Souto)
+112030366,1120303,5,030366,União das freguesias de Cabreiros e Passos (São Julião)
+112030367,1120303,5,030367,"União das freguesias de Celeirós, Aveleda e Vimieiro"
+112030368,1120303,5,030368,União das freguesias de Crespos e Pousada
+112030369,1120303,5,030369,União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente)
+112030370,1120303,5,030370,União das freguesias de Este (São Pedro e São Mamede)
+112030371,1120303,5,030371,União das freguesias de Ferreiros e Gondizalves
+112030372,1120303,5,030372,União das freguesias de Guisande e Oliveira (São Pedro)
+112030373,1120303,5,030373,União das freguesias de Lomar e Arcos
+112030374,1120303,5,030374,"União das freguesias de Merelim (São Paio), Panoias e Parada de Tibães"
+112030375,1120303,5,030375,União das freguesias de Merelim (São Pedro) e Frossos
+112030376,1120303,5,030376,União das freguesias de Morreira e Trandeiras
+112030377,1120303,5,030377,"União das freguesias de Nogueira, Fraião e Lamaçães"
+112030378,1120303,5,030378,União das freguesias de Nogueiró e Tenões
+112030379,1120303,5,030379,"União das freguesias de Real, Dume e Semelhe"
+112030380,1120303,5,030380,União das freguesias de Santa Lucrécia de Algeriz e Navarra
+112030381,1120303,5,030381,União das freguesias de Vilaça e Fradelos
+112030601,1120306,5,030601,Antas
+112030608,1120306,5,030608,Forjães
+112030610,1120306,5,030610,Gemeses
+112030616,1120306,5,030616,União das freguesias de Apúlia e Fão
+112030617,1120306,5,030617,União das freguesias de Belinho e Mar
+112030618,1120306,5,030618,"União das freguesias de Esposende, Marinhas e Gandra"
+112030619,1120306,5,030619,União das freguesias de Fonte Boa e Rio Tinto
+112030620,1120306,5,030620,União das freguesias de Palmeira de Faro e Curvos
+112030615,1120306,5,030615,Vila Chã
+112031001,1120310,5,031001,Balança
+112031003,1120310,5,031003,Campo do Gerês
+112031004,1120310,5,031004,Carvalheira
+112031008,1120310,5,031008,Covide
+112031009,1120310,5,031009,Gondoriz
+112031010,1120310,5,031010,Moimenta
+112031012,1120310,5,031012,Ribeira
+112031013,1120310,5,031013,Rio Caldo
+112031014,1120310,5,031014,Souto
+112031018,1120310,5,031018,União das freguesias de Chamoim e Vilar
+112031019,1120310,5,031019,União das freguesias de Chorense e Monte
+112031020,1120310,5,031020,União das freguesias de Cibões e Brufe
+112031015,1120310,5,031015,Valdosende
+112031017,1120310,5,031017,Vilar da Veiga
+112031359,1120313,5,031359,Aboim da Nóbrega e Gondomar
+112031304,1120313,5,031304,Atiães
+112031308,1120313,5,031308,Cabanelas
+112031309,1120313,5,031309,Cervães
+112031311,1120313,5,031311,Coucieiro
+112031313,1120313,5,031313,Dossãos
+112031316,1120313,5,031316,Freiriz
+112031317,1120313,5,031317,Gême
+112031323,1120313,5,031323,Lage
+112031324,1120313,5,031324,Lanhas
+112031325,1120313,5,031325,Loureira
+112031328,1120313,5,031328,Moure
+112031330,1120313,5,031330,Oleiros
+112031331,1120313,5,031331,Parada de Gatim
+112031335,1120313,5,031335,Pico
+112031337,1120313,5,031337,Ponte
+112031350,1120313,5,031350,Prado (São Miguel)
+112031340,1120313,5,031340,Sabariz
+112031352,1120313,5,031352,Soutelo
+112031354,1120313,5,031354,Turiz
+112031360,1120313,5,031360,União das freguesias da Ribeira do Neiva
+112031361,1120313,5,031361,União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago)
+112031362,1120313,5,031362,União das freguesias de Escariz (São Mamede) e Escariz (São Martinho)
+112031363,1120313,5,031363,"União das freguesias de Esqueiros, Nevogilde e Travassós"
+112031364,1120313,5,031364,União das freguesias de Marrancos e Arcozelo
+112031365,1120313,5,031365,União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel)
+112031366,1120313,5,031366,"União das freguesias de Pico de Regalados, Gondiães e Mós"
+112031367,1120313,5,031367,"União das freguesias de Sande, Vilarinho, Barros e Gomide"
+112031368,1120313,5,031368,"União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho)"
+112031369,1120313,5,031369,União das freguesias do Vade
+112031355,1120313,5,031355,Valdreu
+112031342,1120313,5,031342,Vila de Prado
+112031370,1120313,5,031370,Vila Verde e Barbudo
+119030401,1190304,5,030401,Abadim
+119030404,1190304,5,030404,Basto
+119030405,1190304,5,030405,Bucos
+119030406,1190304,5,030406,Cabeceiras de Basto
+119030407,1190304,5,030407,Cavez
+119030408,1190304,5,030408,Faia
+119030413,1190304,5,030413,Pedraça
+119030415,1190304,5,030415,Rio Douro
+119030418,1190304,5,030418,União das freguesias de Alvite e Passos
+119030419,1190304,5,030419,União das freguesias de Arco de Baúlhe e Vila Nune
+119030420,1190304,5,030420,União das freguesias de Gondiães e Vilar de Cunhas
+119030421,1190304,5,030421,"União das freguesias de Refojos de Basto, Outeiro e Painzela"
+119030705,1190307,5,030705,Armil
+119030726,1190307,5,030726,Arões (Santa Cristina)
+119030730,1190307,5,030730,Arões (São Romão)
+119030708,1190307,5,030708,Estorãos
+119030709,1190307,5,030709,Fafe
+119030712,1190307,5,030712,Fornelos
+119030714,1190307,5,030714,Golães
+119030716,1190307,5,030716,Medelo
+119030719,1190307,5,030719,Passos
+119030722,1190307,5,030722,Quinchães
+119030723,1190307,5,030723,Regadas
+119030724,1190307,5,030724,Revelhe
+119030725,1190307,5,030725,Ribeiros
+119030728,1190307,5,030728,São Gens
+119030729,1190307,5,030729,Silvares (São Martinho)
+119030733,1190307,5,030733,Travassós
+119030737,1190307,5,030737,"União de freguesias de Aboim, Felgueiras, Gontim e Pedraído"
+119030738,1190307,5,030738,União de freguesias de Agrela e Serafão
+119030739,1190307,5,030739,União de freguesias de Antime e Silvares (São Clemente)
+119030740,1190307,5,030740,"União de freguesias de Ardegão, Arnozela e Seidões"
+119030741,1190307,5,030741,União de freguesias de Cepães e Fareja
+119030742,1190307,5,030742,União de freguesias de Freitas e Vila Cova
+119030743,1190307,5,030743,União de freguesias de Monte e Queimadela
+119030744,1190307,5,030744,União de freguesias de Moreira do Rei e Várzea Cova
+119030736,1190307,5,030736,Vinhós
+119030801,1190308,5,030801,Aldão
+119030804,1190308,5,030804,Azurém
+119030806,1190308,5,030806,Barco
+119030807,1190308,5,030807,Brito
+119030808,1190308,5,030808,Caldelas
+119030857,1190308,5,030857,Candoso (São Martinho)
+119030812,1190308,5,030812,Costa
+119030813,1190308,5,030813,Creixomil
+119030815,1190308,5,030815,Fermentões
+119030820,1190308,5,030820,Gonça
+119030821,1190308,5,030821,Gondar
+119030823,1190308,5,030823,Guardizela
+119030824,1190308,5,030824,Infantas
+119030827,1190308,5,030827,Longos
+119030828,1190308,5,030828,Lordelo
+119030830,1190308,5,030830,Mesão Frio
+119030831,1190308,5,030831,Moreira de Cónegos
+119030832,1190308,5,030832,Nespereira
+119030835,1190308,5,030835,Pencelo
+119030836,1190308,5,030836,Pinheiro
+119030837,1190308,5,030837,Polvoreira
+119030838,1190308,5,030838,Ponte
+119030842,1190308,5,030842,Prazins (Santa Eufémia)
+119030840,1190308,5,030840,Ronfe
+119030858,1190308,5,030858,Sande (São Martinho)
+119030865,1190308,5,030865,São Torcato
+119030850,1190308,5,030850,Selho (São Cristóvão)
+119030854,1190308,5,030854,Selho (São Jorge)
+119030866,1190308,5,030866,Serzedelo
+119030868,1190308,5,030868,Silvares
+119030875,1190308,5,030875,União das freguesias de Abação e Gémeos
+119030876,1190308,5,030876,"União das freguesias de Airão Santa Maria, Airão São João e Vermil"
+119030877,1190308,5,030877,União das freguesias de Arosa e Castelões
+119030878,1190308,5,030878,União das freguesias de Atães e Rendufe
+119030879,1190308,5,030879,União das freguesias de Briteiros Santo Estêvão e Donim
+119030880,1190308,5,030880,União das freguesias de Briteiros São Salvador e Briteiros Santa Leocádia
+119030881,1190308,5,030881,União das freguesias de Candoso São Tiago e Mascotelos
+119030882,1190308,5,030882,União das freguesias de Conde e Gandarela
+119030883,1190308,5,030883,"União das freguesias de Leitões, Oleiros e Figueiredo"
+119030884,1190308,5,030884,"União das freguesias de Oliveira, São Paio e São Sebastião"
+119030885,1190308,5,030885,União das freguesias de Prazins Santo Tirso e Corvite
+119030886,1190308,5,030886,União das freguesias de Sande São Lourenço e Balazar
+119030887,1190308,5,030887,União das freguesias de Sande Vila Nova e Sande São Clemente
+119030888,1190308,5,030888,União das freguesias de Selho São Lourenço e Gominhães
+119030889,1190308,5,030889,União das freguesias de Serzedo e Calvos
+119030890,1190308,5,030890,"União das freguesias de Souto Santa Maria, Souto São Salvador e Gondomar"
+119030891,1190308,5,030891,União das freguesias de Tabuadelo e São Faustino
+119030871,1190308,5,030871,Urgezes
+119170501,1191705,5,170501,Atei
+119170502,1191705,5,170502,Bilhó
+119170505,1191705,5,170505,Mondim de Basto
+119170509,1191705,5,170509,União das freguesias de Campanhó e Paradança
+119170510,1191705,5,170510,União das freguesias de Ermelo e Pardelhas
+119170508,1191705,5,170508,Vilar de Ferreiros
+119030906,1190309,5,030906,Covelas
+119030908,1190309,5,030908,Ferreiros
+119030912,1190309,5,030912,Galegos
+119030913,1190309,5,030913,Garfe
+119030914,1190309,5,030914,Geraz do Minho
+119030915,1190309,5,030915,Lanhoso
+119030917,1190309,5,030917,Monsul
+119030919,1190309,5,030919,Póvoa de Lanhoso (Nossa Senhora do Amparo)
+119030921,1190309,5,030921,Rendufinho
+119030922,1190309,5,030922,Santo Emilião
+119030923,1190309,5,030923,São João de Rei
+119030924,1190309,5,030924,Serzedelo
+119030925,1190309,5,030925,Sobradelo da Goma
+119030926,1190309,5,030926,Taíde
+119030927,1190309,5,030927,Travassos
+119030930,1190309,5,030930,União das freguesias de Águas Santas e Moure
+119030931,1190309,5,030931,União das freguesias de Calvos e Frades
+119030932,1190309,5,030932,União das freguesias de Campos e Louredo
+119030933,1190309,5,030933,União das freguesias de Esperança e Brunhais
+119030934,1190309,5,030934,União das freguesias de Fonte Arcada e Oliveira
+119030935,1190309,5,030935,"União das freguesias de Verim, Friande e Ajude"
+119030929,1190309,5,030929,Vilela
+119031105,1190311,5,031105,Cantelães
+119031107,1190311,5,031107,Eira Vedra
+119031108,1190311,5,031108,Guilhofrei
+119031109,1190311,5,031109,Louredo
+119031110,1190311,5,031110,Mosteiro
+119031111,1190311,5,031111,Parada do Bouro
+119031112,1190311,5,031112,Pinheiro
+119031113,1190311,5,031113,Rossas
+119031115,1190311,5,031115,Salamonde
+119031118,1190311,5,031118,Tabuaças
+119031122,1190311,5,031122,União das freguesias de Anissó e Soutelo
+119031123,1190311,5,031123,União das freguesias de Anjos e Vilar do Chão
+119031124,1190311,5,031124,União das freguesias de Caniçada e Soengas
+119031125,1190311,5,031125,União das freguesias de Ruivães e Campos
+119031126,1190311,5,031126,União das freguesias de Ventosa e Cova
+119031120,1190311,5,031120,Vieira do Minho
+119031204,1190312,5,031204,Bairro
+119031206,1190312,5,031206,Brufe
+119031210,1190312,5,031210,Castelões
+119031212,1190312,5,031212,Cruz
+119031213,1190312,5,031213,Delães
+119031215,1190312,5,031215,Fradelos
+119031216,1190312,5,031216,Gavião
+119031219,1190312,5,031219,Joane
+119031221,1190312,5,031221,Landim
+119031223,1190312,5,031223,Louro
+119031224,1190312,5,031224,Lousado
+119031225,1190312,5,031225,Mogege
+119031227,1190312,5,031227,Nine
+119031239,1190312,5,031239,Oliveira (Santa Maria)
+119031242,1190312,5,031242,Oliveira (São Mateus)
+119031230,1190312,5,031230,Pedome
+119031232,1190312,5,031232,Pousada de Saramagos
+119031233,1190312,5,031233,Requião
+119031234,1190312,5,031234,Riba de Ave
+119031235,1190312,5,031235,Ribeirão
+119031250,1190312,5,031250,União das freguesias de Antas e Abade de Vermoim
+119031251,1190312,5,031251,União das freguesias de Arnoso (Santa Maria e Santa Eulália) e Sezures
+119031252,1190312,5,031252,União das freguesias de Avidos e Lagoa
+119031253,1190312,5,031253,União das freguesias de Carreira e Bente
+119031254,1190312,5,031254,União das freguesias de Esmeriz e Cabeçudos
+119031255,1190312,5,031255,"União das freguesias de Gondifelos, Cavalões e Outiz"
+119031256,1190312,5,031256,"União das freguesias de Lemenhe, Mouquim e Jesufrei"
+119031257,1190312,5,031257,União das freguesias de Ruivães e Novais
+119031258,1190312,5,031258,União das freguesias de Seide
+119031259,1190312,5,031259,"União das freguesias de Vale (São Cosme), Telhado e Portela"
+119031260,1190312,5,031260,União das freguesias de Vila Nova de Famalicão e Calendário
+119031241,1190312,5,031241,Vale (São Martinho)
+119031247,1190312,5,031247,Vermoim
+119031249,1190312,5,031249,Vilarinho das Cambas
+119031404,1190314,5,031404,Infias
+119031401,1190314,5,031401,Santa Eulália
+119031408,1190314,5,031408,União das freguesias de Caldas de Vizela (São Miguel e São João)
+119031409,1190314,5,031409,União das freguesias de Tagilde e Vizela (São Paio)
+119031406,1190314,5,031406,Vizela (Santo Adrião)
+11A010402,11A0104,5,010402,Alvarenga
+11A010407,11A0104,5,010407,Chave
+11A010409,11A0104,5,010409,Escariz
+11A010411,11A0104,5,010411,Fermedo
+11A010413,11A0104,5,010413,Mansores
+11A010414,11A0104,5,010414,Moldes
+11A010415,11A0104,5,010415,Rossas
+11A010416,11A0104,5,010416,Santa Eulália
+11A010417,11A0104,5,010417,São Miguel do Mato
+11A010418,11A0104,5,010418,Tropeço
+11A010421,11A0104,5,010421,União das freguesias de Arouca e Burgo
+11A010422,11A0104,5,010422,União das freguesias de Cabreiros e Albergaria da Serra
+11A010423,11A0104,5,010423,União das freguesias de Canelas e Espiunca
+11A010424,11A0104,5,010424,União das freguesias de Covelo de Paivó e Janarde
+11A010419,11A0104,5,010419,Urrô
+11A010420,11A0104,5,010420,Várzea
+11A010702,11A0107,5,010702,Espinho
+11A010704,11A0107,5,010704,Paramos
+11A010705,11A0107,5,010705,Silvalde
+11A010706,11A0107,5,010706,União das freguesias de Anta e Guetim
+11A130412,11A1304,5,130412,Baguim do Monte (Rio Tinto)
+11A130405,11A1304,5,130405,Lomba
+11A130408,11A1304,5,130408,Rio Tinto
+11A130413,11A1304,5,130413,União das freguesias de Fânzeres e São Pedro da Cova
+11A130414,11A1304,5,130414,União das freguesias de Foz do Sousa e Covelo
+11A130415,11A1304,5,130415,"União das freguesias de Gondomar (São Cosme), Valbom e Jovim"
+11A130416,11A1304,5,130416,União das freguesias de Melres e Medas
+11A130601,11A1306,5,130601,Águas Santas
+11A130618,11A1306,5,130618,Castêlo da Maia
+11A130619,11A1306,5,130619,Cidade da Maia
+11A130603,11A1306,5,130603,Folgosa
+11A130608,11A1306,5,130608,Milheirós
+11A130609,11A1306,5,130609,Moreira
+11A130620,11A1306,5,130620,Nogueira e Silva Escura
+11A130617,11A1306,5,130617,Pedrouços
+11A130613,11A1306,5,130613,São Pedro Fins
+11A130616,11A1306,5,130616,Vila Nova da Telha
+11A130811,11A1308,5,130811,"União das freguesias de Custóias, Leça do Balio e Guifões"
+11A130812,11A1308,5,130812,União das freguesias de Matosinhos e Leça da Palmeira
+11A130813,11A1308,5,130813,"União das freguesias de Perafita, Lavra e Santa Cruz do Bispo"
+11A130814,11A1308,5,130814,União das freguesias de São Mamede de Infesta e Senhora da Hora
+11A011301,11A0113,5,011301,Carregosa
+11A011302,11A0113,5,011302,Cesar
+11A011303,11A0113,5,011303,Fajões
+11A011304,11A0113,5,011304,Loureiro
+11A011305,11A0113,5,011305,Macieira de Sarnes
+11A011310,11A0113,5,011310,Ossela
+11A011315,11A0113,5,011315,São Martinho da Gândara
+11A011318,11A0113,5,011318,São Roque
+11A011320,11A0113,5,011320,União das freguesias de Nogueira do Cravo e Pindelo
+11A011321,11A0113,5,011321,"União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail"
+11A011322,11A0113,5,011322,"União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz"
+11A011319,11A0113,5,011319,Vila de Cucujães
+11A131001,11A1310,5,131001,Aguiar de Sousa
+11A131002,11A1310,5,131002,Astromil
+11A131003,11A1310,5,131003,Baltar
+11A131004,11A1310,5,131004,Beire
+11A131008,11A1310,5,131008,Cete
+11A131009,11A1310,5,131009,Cristelo
+11A131010,11A1310,5,131010,Duas Igrejas
+11A131011,11A1310,5,131011,Gandra
+11A131013,11A1310,5,131013,Lordelo
+11A131014,11A1310,5,131014,Louredo
+11A131017,11A1310,5,131017,Parada de Todeia
+11A131025,11A1310,5,131025,Paredes
+11A131018,11A1310,5,131018,Rebordosa
+11A131019,11A1310,5,131019,Recarei
+11A131020,11A1310,5,131020,Sobreira
+11A131021,11A1310,5,131021,Sobrosa
+11A131022,11A1310,5,131022,Vandoma
+11A131024,11A1310,5,131024,Vilela
+11A131202,11A1312,5,131202,Bonfim
+11A131203,11A1312,5,131203,Campanhã
+11A131210,11A1312,5,131210,Paranhos
+11A131211,11A1312,5,131211,Ramalde
+11A131216,11A1312,5,131216,"União das freguesias de Aldoar, Foz do Douro e Nevogilde"
+11A131217,11A1312,5,131217,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória"
+11A131218,11A1312,5,131218,União das freguesias de Lordelo do Ouro e Massarelos
+11A131305,11A1313,5,131305,Balazar
+11A131307,11A1313,5,131307,Estela
+11A131308,11A1313,5,131308,Laundos
+11A131311,11A1313,5,131311,Rates
+11A131315,11A1313,5,131315,"União das freguesias da Póvoa de Varzim, Beiriz e Argivai"
+11A131314,11A1313,5,131314,União das freguesias de Aguçadoura e Navais
+11A131313,11A1313,5,131313,"União das freguesias de Aver-o-Mar, Amorim e Terroso"
+11A010901,11A0109,5,010901,Argoncilhe
+11A010902,11A0109,5,010902,Arrifana
+11A010904,11A0109,5,010904,Escapães
+11A010907,11A0109,5,010907,Fiães
+11A010908,11A0109,5,010908,Fornos
+11A010913,11A0109,5,010913,Lourosa
+11A010914,11A0109,5,010914,Milheirós de Poiares
+11A010916,11A0109,5,010916,Mozelos
+11A010917,11A0109,5,010917,Nogueira da Regedoura
+11A010919,11A0109,5,010919,Paços de Brandão
+11A010921,11A0109,5,010921,Rio Meão
+11A010922,11A0109,5,010922,Romariz
+11A010924,11A0109,5,010924,Sanguedo
+11A010925,11A0109,5,010925,Santa Maria de Lamas
+11A010926,11A0109,5,010926,São João de Ver
+11A010918,11A0109,5,010918,São Paio de Oleiros
+11A010932,11A0109,5,010932,União das freguesias de Caldas de São Jorge e Pigeiros
+11A010933,11A0109,5,010933,"União das freguesias de Canedo, Vale e Vila Maior"
+11A010934,11A0109,5,010934,"União das freguesias de Lobão, Gião, Louredo e Guisande"
+11A010935,11A0109,5,010935,"União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo"
+11A010936,11A0109,5,010936,União das freguesias de São Miguel do Souto e Mosteirô
+11A131401,11A1314,5,131401,Agrela
+11A131402,11A1314,5,131402,Água Longa
+11A131405,11A1314,5,131405,Aves
+11A131413,11A1314,5,131413,Monte Córdova
+11A131430,11A1314,5,131430,Negrelos (São Tomé)
+11A131416,11A1314,5,131416,Rebordões
+11A131418,11A1314,5,131418,Reguenga
+11A131419,11A1314,5,131419,Roriz
+11A131433,11A1314,5,131433,"União das freguesias de Areias, Sequeiró, Lama e Palmeira"
+11A131434,11A1314,5,131434,"União das freguesias de Campo (São Martinho), São Salvador do Campo e Negrelos (São Mamede)"
+11A131435,11A1314,5,131435,União das freguesias de Carreira e Refojos de Riba de Ave
+11A131436,11A1314,5,131436,União das freguesias de Lamelas e Guimarei
+11A131437,11A1314,5,131437,"União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães"
+11A131432,11A1314,5,131432,Vilarinho
+11A011601,11A0116,5,011601,São João da Madeira
+11A131806,11A1318,5,131806,Covelas
+11A131808,11A1318,5,131808,Muro
+11A131809,11A1318,5,131809,União das freguesias de Alvarelhos e Guidões
+11A131810,11A1318,5,131810,União das freguesias de Bougado (São Martinho e Santiago)
+11A131811,11A1318,5,131811,União das freguesias de Coronado (São Romão e São Mamede)
+11A011901,11A0119,5,011901,Arões
+11A011903,11A0119,5,011903,Cepelos
+11A011905,11A0119,5,011905,Junqueira
+11A011906,11A0119,5,011906,Macieira de Cambra
+11A011907,11A0119,5,011907,Roge
+11A011902,11A0119,5,011902,São Pedro de Castelões
+11A011910,11A0119,5,011910,"União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho"
+11A131501,11A1315,5,131501,Alfena
+11A131503,11A1315,5,131503,Ermesinde
+11A131506,11A1315,5,131506,União das freguesias de Campo e Sobrado
+11A131505,11A1315,5,131505,Valongo
+11A131602,11A1316,5,131602,Árvore
+11A131603,11A1316,5,131603,Aveleda
+11A131604,11A1316,5,131604,Azurara
+11A131607,11A1316,5,131607,Fajozes
+11A131610,11A1316,5,131610,Gião
+11A131611,11A1316,5,131611,Guilhabreu
+11A131612,11A1316,5,131612,Junqueira
+11A131613,11A1316,5,131613,Labruge
+11A131614,11A1316,5,131614,Macieira da Maia
+11A131616,11A1316,5,131616,Mindelo
+11A131617,11A1316,5,131617,Modivas
+11A131631,11A1316,5,131631,"União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada"
+11A131632,11A1316,5,131632,União das freguesias de Fornelo e Vairão
+11A131633,11A1316,5,131633,União das freguesias de Malta e Canidelo
+11A131634,11A1316,5,131634,União das freguesias de Retorta e Tougues
+11A131635,11A1316,5,131635,União das freguesias de Rio Mau e Arcos
+11A131636,11A1316,5,131636,União das freguesias de Touguinha e Touguinhó
+11A131637,11A1316,5,131637,União das freguesias de Vilar e Mosteiró
+11A131627,11A1316,5,131627,Vila Chã
+11A131628,11A1316,5,131628,Vila do Conde
+11A131630,11A1316,5,131630,Vilar de Pinheiro
+11A131701,11A1317,5,131701,Arcozelo
+11A131702,11A1317,5,131702,Avintes
+11A131703,11A1317,5,131703,Canelas
+11A131704,11A1317,5,131704,Canidelo
+11A131709,11A1317,5,131709,Madalena
+11A131712,11A1317,5,131712,Oliveira do Douro
+11A131717,11A1317,5,131717,São Félix da Marinha
+11A131725,11A1317,5,131725,União das freguesias de Grijó e Sermonde
+11A131726,11A1317,5,131726,União das freguesias de Gulpilhares e Valadares
+11A131727,11A1317,5,131727,União das freguesias de Mafamude e Vilar do Paraíso
+11A131728,11A1317,5,131728,União das freguesias de Pedroso e Seixezelo
+11A131729,11A1317,5,131729,"União das freguesias de Sandim, Olival, Lever e Crestuma"
+11A131730,11A1317,5,131730,União das freguesias de Santa Marinha e São Pedro da Afurada
+11A131731,11A1317,5,131731,União das freguesias de Serzedo e Perosinho
+11A131723,11A1317,5,131723,Vilar de Andorinho
+11B170217,11B1702,5,170217,Alturas do Barroso e Cerdedo
+11B170218,11B1702,5,170218,Ardãos e Bobadela
+11B170203,11B1702,5,170203,Beça
+11B170219,11B1702,5,170219,Boticas e Granja
+11B170220,11B1702,5,170220,"Codessoso, Curros e Fiães do Tâmega"
+11B170208,11B1702,5,170208,Covas do Barroso
+11B170210,11B1702,5,170210,Dornelas
+11B170213,11B1702,5,170213,Pinho
+11B170215,11B1702,5,170215,Sapiãos
+11B170221,11B1702,5,170221,Vilar e Viveiro
+11B170301,11B1703,5,170301,Águas Frias
+11B170302,11B1703,5,170302,Anelhe
+11B170305,11B1703,5,170305,Bustelo
+11B170309,11B1703,5,170309,Cimo de Vila da Castanheira
+11B170310,11B1703,5,170310,Curalha
+11B170312,11B1703,5,170312,Ervededo
+11B170313,11B1703,5,170313,Faiões
+11B170314,11B1703,5,170314,Lama de Arcos
+11B170316,11B1703,5,170316,Mairos
+11B170317,11B1703,5,170317,Moreiras
+11B170318,11B1703,5,170318,Nogueira da Montanha
+11B170320,11B1703,5,170320,Oura
+11B170321,11B1703,5,170321,Outeiro Seco
+11B170322,11B1703,5,170322,Paradela
+11B170353,11B1703,5,170353,Planalto de Monforte (União das freguesias de Oucidres e Bobadela)
+11B170324,11B1703,5,170324,Redondelo
+11B170327,11B1703,5,170327,Sanfins
+11B170329,11B1703,5,170329,Santa Leocádia
+11B170350,11B1703,5,170350,Santa Maria Maior
+11B170330,11B1703,5,170330,Santo António de Monforte
+11B170331,11B1703,5,170331,Santo Estêvão
+11B170333,11B1703,5,170333,São Pedro de Agostém
+11B170334,11B1703,5,170334,São Vicente
+11B170340,11B1703,5,170340,Tronco
+11B170354,11B1703,5,170354,União das freguesias da Madalena e Samaiões
+11B170355,11B1703,5,170355,"União das freguesias das Eiras, São Julião de Montenegro e Cela"
+11B170356,11B1703,5,170356,União das freguesias de Calvão e Soutelinho da Raia
+11B170357,11B1703,5,170357,União das freguesias de Loivos e Póvoa de Agrações
+11B170358,11B1703,5,170358,União das freguesias de Santa Cruz/Trindade e Sanjurge
+11B170359,11B1703,5,170359,União das freguesias de Soutelo e Seara Velha
+11B170360,11B1703,5,170360,União das freguesias de Travancas e Roriz
+11B170341,11B1703,5,170341,Vale de Anta
+11B170361,11B1703,5,170361,"Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras)"
+11B170343,11B1703,5,170343,Vila Verde da Raia
+11B170344,11B1703,5,170344,Vilar de Nantes
+11B170345,11B1703,5,170345,Vilarelho da Raia
+11B170347,11B1703,5,170347,Vilas Boas
+11B170349,11B1703,5,170349,Vilela do Tâmega
+11B170348,11B1703,5,170348,Vilela Seca
+11B170601,11B1706,5,170601,Cabril
+11B170603,11B1706,5,170603,Cervos
+11B170604,11B1706,5,170604,Chã
+11B170607,11B1706,5,170607,Covelo do Gerês
+11B170609,11B1706,5,170609,Ferral
+11B170612,11B1706,5,170612,Gralhas
+11B170616,11B1706,5,170616,Morgade
+11B170618,11B1706,5,170618,Negrões
+11B170619,11B1706,5,170619,Outeiro
+11B170623,11B1706,5,170623,Pitões das Junias
+11B170625,11B1706,5,170625,Reigoso
+11B170626,11B1706,5,170626,Salto
+11B170627,11B1706,5,170627,Santo André
+11B170629,11B1706,5,170629,Sarraquinhos
+11B170631,11B1706,5,170631,Solveira
+11B170632,11B1706,5,170632,Tourém
+11B170636,11B1706,5,170636,"União das freguesias de Cambeses do Rio, Donões e Mourilhe"
+11B170637,11B1706,5,170637,União das freguesias de Meixedo e Padornelos
+11B170638,11B1706,5,170638,União das freguesias de Montalegre e Padroso
+11B170639,11B1706,5,170639,"União das freguesias de Paradela, Contim e Fiães"
+11B170640,11B1706,5,170640,União das freguesias de Sezelhe e Covelães
+11B170641,11B1706,5,170641,União das freguesias de Venda Nova e Pondras
+11B170642,11B1706,5,170642,União das freguesias de Viade de Baixo e Fervidelas
+11B170643,11B1706,5,170643,União das freguesias de Vilar de Perdizes e Meixide
+11B170635,11B1706,5,170635,Vila da Ponte
+11B170901,11B1709,5,170901,Alvadia
+11B170902,11B1709,5,170902,Canedo
+11B170906,11B1709,5,170906,Santa Marinha
+11B170908,11B1709,5,170908,União das freguesias de Cerva e Limões
+11B170909,11B1709,5,170909,União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega
+11B171201,11B1712,5,171201,Água Revés e Crasto
+11B171203,11B1712,5,171203,Algeriz
+11B171205,11B1712,5,171205,Bouçoães
+11B171206,11B1712,5,171206,Canaveses
+11B171232,11B1712,5,171232,Carrazedo de Montenegro e Curros
+11B171209,11B1712,5,171209,Ervões
+11B171211,11B1712,5,171211,Fornos do Pinhal
+11B171212,11B1712,5,171212,Friões
+11B171233,11B1712,5,171233,"Lebução, Fiães e Nozelos"
+11B171215,11B1712,5,171215,Padrela e Tazem
+11B171216,11B1712,5,171216,Possacos
+11B171217,11B1712,5,171217,Rio Torto
+11B171219,11B1712,5,171219,Santa Maria de Emeres
+11B171220,11B1712,5,171220,Santa Valha
+11B171221,11B1712,5,171221,Santiago da Ribeira de Alhariz
+11B171222,11B1712,5,171222,São João da Corveira
+11B171223,11B1712,5,171223,São Pedro de Veiga de Lila
+11B171224,11B1712,5,171224,Serapicos
+11B171234,11B1712,5,171234,Sonim e Barreiros
+11B171235,11B1712,5,171235,Tinhela e Alvarelhos
+11B171227,11B1712,5,171227,Vales
+11B171236,11B1712,5,171236,Valpaços e Sanfins
+11B171229,11B1712,5,171229,Vassal
+11B171230,11B1712,5,171230,Veiga de Lila
+11B171231,11B1712,5,171231,Vilarandelo
+11B171302,11B1713,5,171302,Alfarela de Jales
+11B171319,11B1713,5,171319,Alvão
+11B171303,11B1713,5,171303,Bornes de Aguiar
+11B171304,11B1713,5,171304,Bragado
+11B171305,11B1713,5,171305,Capeludos
+11B171317,11B1713,5,171317,Sabroso de Aguiar
+11B171310,11B1713,5,171310,Soutelo de Aguiar
+11B171311,11B1713,5,171311,Telões
+11B171312,11B1713,5,171312,Tresminas
+11B171320,11B1713,5,171320,União das freguesias de Pensalvos e Parada de Monteiros
+11B171313,11B1713,5,171313,Valoura
+11B171314,11B1713,5,171314,Vila Pouca de Aguiar
+11B171315,11B1713,5,171315,Vreia de Bornes
+11B171316,11B1713,5,171316,Vreia de Jales
+11C130103,11C1301,5,130103,Ansiães
+11C130107,11C1301,5,130107,Candemil
+11C130112,11C1301,5,130112,Fregim
+11C130115,11C1301,5,130115,Fridão
+11C130117,11C1301,5,130117,Gondar
+11C130134,11C1301,5,130134,Gouveia (São Simão)
+11C130118,11C1301,5,130118,Jazente
+11C130119,11C1301,5,130119,Lomba
+11C130120,11C1301,5,130120,Louredo
+11C130121,11C1301,5,130121,Lufrei
+11C130123,11C1301,5,130123,Mancelos
+11C130126,11C1301,5,130126,Padronelo
+11C130128,11C1301,5,130128,Rebordelo
+11C130129,11C1301,5,130129,Salvador do Monte
+11C130135,11C1301,5,130135,Telões
+11C130136,11C1301,5,130136,Travanca
+11C130141,11C1301,5,130141,"União das freguesias de Aboadela, Sanche e Várzea"
+11C130142,11C1301,5,130142,"União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão"
+11C130143,11C1301,5,130143,"União das freguesias de Bustelo, Carneiro e Carvalho de Rei"
+11C130144,11C1301,5,130144,União das freguesias de Figueiró (Santiago e Santa Cristina)
+11C130145,11C1301,5,130145,União das freguesias de Freixo de Cima e de Baixo
+11C130146,11C1301,5,130146,União das freguesias de Olo e Canadelo
+11C130147,11C1301,5,130147,"União das freguesias de Real, Ataíde e Oliveira"
+11C130148,11C1301,5,130148,"União das freguesias de Vila Garcia, Aboim e Chapa"
+11C130138,11C1301,5,130138,Vila Caiz
+11C130139,11C1301,5,130139,Vila Chã do Marão
+11C130204,11C1302,5,130204,Frende
+11C130205,11C1302,5,130205,Gestaçô
+11C130206,11C1302,5,130206,Gove
+11C130207,11C1302,5,130207,Grilo
+11C130208,11C1302,5,130208,Loivos do Monte
+11C130215,11C1302,5,130215,Santa Marinha do Zêzere
+11C130221,11C1302,5,130221,União das freguesias de Ancede e Ribadouro
+11C130222,11C1302,5,130222,União das freguesias de Baião (Santa Leocádia) e Mesquinhata
+11C130223,11C1302,5,130223,União das freguesias de Campelo e Ovil
+11C130224,11C1302,5,130224,União das freguesias de Loivos da Ribeira e Tresouras
+11C130225,11C1302,5,130225,União das freguesias de Santa Cruz do Douro e São Tomé de Covelas
+11C130226,11C1302,5,130226,União das freguesias de Teixeira e Teixeiró
+11C130219,11C1302,5,130219,Valadares
+11C130220,11C1302,5,130220,Viariz
+11C010602,11C0106,5,010602,Fornos
+11C010606,11C0106,5,010606,Real
+11C010607,11C0106,5,010607,Santa Maria de Sardoura
+11C010608,11C0106,5,010608,São Martinho de Sardoura
+11C010610,11C0106,5,010610,"União das freguesias de Raiva, Pedorido e Paraíso"
+11C010611,11C0106,5,010611,União das freguesias de Sobrado e Bairros
+11C030501,11C0305,5,030501,Agilde
+11C030502,11C0305,5,030502,Arnóia
+11C030520,11C0305,5,030520,Basto (São Clemente)
+11C030503,11C0305,5,030503,Borba de Montanha
+11C030508,11C0305,5,030508,Codeçoso
+11C030510,11C0305,5,030510,Fervença
+11C030515,11C0305,5,030515,Moreira do Castelo
+11C030517,11C0305,5,030517,Rego
+11C030518,11C0305,5,030518,Ribas
+11C030523,11C0305,5,030523,"União das freguesias de Britelo, Gémeos e Ourilhe"
+11C030524,11C0305,5,030524,União das freguesias de Caçarilhe e Infesta
+11C030525,11C0305,5,030525,União das freguesias de Canedo de Basto e Corgo
+11C030526,11C0305,5,030526,União das freguesias de Carvalho e Basto (Santa Tecla)
+11C030527,11C0305,5,030527,"União das freguesias de Veade, Gagos e Molares"
+11C030521,11C0305,5,030521,Vale de Bouro
+11C180403,11C1804,5,180403,Cinfães
+11C180404,11C1804,5,180404,Espadanedo
+11C180405,11C1804,5,180405,Ferreiros de Tendais
+11C180406,11C1804,5,180406,Fornelos
+11C180408,11C1804,5,180408,Moimenta
+11C180409,11C1804,5,180409,Nespereira
+11C180410,11C1804,5,180410,Oliveira do Douro
+11C180412,11C1804,5,180412,Santiago de Piães
+11C180413,11C1804,5,180413,São Cristóvão de Nogueira
+11C180414,11C1804,5,180414,Souselo
+11C180415,11C1804,5,180415,Tarouquela
+11C180416,11C1804,5,180416,Tendais
+11C180417,11C1804,5,180417,Travanca
+11C180418,11C1804,5,180418,"União das freguesias de Alhões, Bustelo, Gralheira e Ramires"
+11C130301,11C1303,5,130301,Aião
+11C130302,11C1303,5,130302,Airães
+11C130305,11C1303,5,130305,Friande
+11C130306,11C1303,5,130306,Idães
+11C130307,11C1303,5,130307,Jugueiros
+11C130313,11C1303,5,130313,Penacova
+11C130314,11C1303,5,130314,Pinheiro
+11C130315,11C1303,5,130315,Pombeiro de Ribavizela
+11C130317,11C1303,5,130317,Refontoura
+11C130318,11C1303,5,130318,Regilde
+11C130319,11C1303,5,130319,Revinhade
+11C130324,11C1303,5,130324,Sendim
+11C130334,11C1303,5,130334,União das freguesias de Macieira da Lixa e Caramos
+11C130335,11C1303,5,130335,"União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure"
+11C130336,11C1303,5,130336,"União das freguesias de Pedreira, Rande e Sernande"
+11C130337,11C1303,5,130337,União das freguesias de Torrados e Sousa
+11C130338,11C1303,5,130338,União das freguesias de Unhão e Lordelo
+11C130339,11C1303,5,130339,União das freguesias de Vila Cova da Lixa e Borba de Godim
+11C130340,11C1303,5,130340,União das freguesias de Vila Fria e Vizela (São Jorge)
+11C130341,11C1303,5,130341,União das freguesias de Vila Verde e Santão
+11C130502,11C1305,5,130502,Aveleda
+11C130504,11C1305,5,130504,Caíde de Rei
+11C130510,11C1305,5,130510,Lodares
+11C130512,11C1305,5,130512,Macieira
+11C130513,11C1305,5,130513,Meinedo
+11C130515,11C1305,5,130515,Nevogilde
+11C130524,11C1305,5,130524,Sousela
+11C130525,11C1305,5,130525,Torno
+11C130527,11C1305,5,130527,União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida)
+11C130528,11C1305,5,130528,"União das freguesias de Cristelos, Boim e Ordem"
+11C130529,11C1305,5,130529,União das freguesias de Figueiras e Covas
+11C130530,11C1305,5,130530,União das freguesias de Lustosa e Barrosas (Santo Estêvão)
+11C130531,11C1305,5,130531,União das freguesias de Nespereira e Casais
+11C130532,11C1305,5,130532,"União das freguesias de Silvares, Pias, Nogueira e Alvarenga"
+11C130526,11C1305,5,130526,Vilar do Torno e Alentém
+11C130732,11C1307,5,130732,"Alpendorada, Várzea e Torrão"
+11C130733,11C1307,5,130733,Avessadas e Rosém
+11C130704,11C1307,5,130704,Banho e Carvalhosa
+11C130734,11C1307,5,130734,Bem Viver
+11C130705,11C1307,5,130705,Constance
+11C130736,11C1307,5,130736,Marco
+11C130737,11C1307,5,130737,Paredes de Viadores e Manhuncelos
+11C130738,11C1307,5,130738,Penhalonga e Paços de Gaiolo
+11C130739,11C1307,5,130739,Sande e São Lourenço do Douro
+11C130735,11C1307,5,130735,Santo Isidoro e Livração
+11C130722,11C1307,5,130722,Soalhães
+11C130723,11C1307,5,130723,Sobretâmega
+11C130724,11C1307,5,130724,Tabuado
+11C130740,11C1307,5,130740,"Várzea, Aliviada e Folhada"
+11C130741,11C1307,5,130741,Vila Boa de Quires e Maureles
+11C130730,11C1307,5,130730,Vila Boa do Bispo
+11C130902,11C1309,5,130902,Carvalhosa
+11C130904,11C1309,5,130904,Eiriz
+11C130905,11C1309,5,130905,Ferreira
+11C130906,11C1309,5,130906,Figueiró
+11C130917,11C1309,5,130917,Frazão Arreigada
+11C130908,11C1309,5,130908,Freamunde
+11C130910,11C1309,5,130910,Meixomil
+11C130918,11C1309,5,130918,Paços de Ferreira
+11C130913,11C1309,5,130913,Penamaior
+11C130914,11C1309,5,130914,Raimonda
+11C130919,11C1309,5,130919,Sanfins Lamoso Codessos
+11C130916,11C1309,5,130916,Seroa
+11C131101,11C1311,5,131101,Abragão
+11C131102,11C1311,5,131102,Boelhe
+11C131103,11C1311,5,131103,Bustelo
+11C131104,11C1311,5,131104,Cabeça Santa
+11C131105,11C1311,5,131105,Canelas
+11C131106,11C1311,5,131106,Capela
+11C131107,11C1311,5,131107,Castelões
+11C131108,11C1311,5,131108,Croca
+11C131109,11C1311,5,131109,Duas Igrejas
+11C131110,11C1311,5,131110,Eja
+11C131112,11C1311,5,131112,Fonte Arcada
+11C131113,11C1311,5,131113,Galegos
+11C131141,11C1311,5,131141,Guilhufe e Urrô
+11C131115,11C1311,5,131115,Irivo
+11C131142,11C1311,5,131142,Lagares e Figueira
+11C131140,11C1311,5,131140,Luzim e Vila Cova
+11C131121,11C1311,5,131121,Oldrões
+11C131122,11C1311,5,131122,Paço de Sousa
+11C131139,11C1311,5,131139,Penafiel
+11C131125,11C1311,5,131125,Perozelo
+11C131128,11C1311,5,131128,Rans
+11C131132,11C1311,5,131132,Recezinhos (São Mamede)
+11C131133,11C1311,5,131133,Recezinhos (São Martinho)
+11C131129,11C1311,5,131129,Rio de Moinhos
+11C131138,11C1311,5,131138,Rio Mau
+11C131134,11C1311,5,131134,Sebolido
+11C131143,11C1311,5,131143,Termas de São Vicente
+11C131136,11C1311,5,131136,Valpedre
+11C181302,11C1813,5,181302,Barrô
+11C181303,11C1813,5,181303,Cárquere
+11C181310,11C1813,5,181310,Paus
+11C181311,11C1813,5,181311,Resende
+11C181312,11C1813,5,181312,São Cipriano
+11C181313,11C1813,5,181313,São João de Fontoura
+11C181314,11C1813,5,181314,São Martinho de Mouros
+11C181316,11C1813,5,181316,União das freguesias de Anreade e São Romão de Aregos
+11C181317,11C1813,5,181317,União das freguesias de Felgueiras e Feirão
+11C181318,11C1813,5,181318,União das freguesias de Freigil e Miomães
+11C181319,11C1813,5,181319,União das freguesias de Ovadas e Panchorra
+11D170101,11D1701,5,170101,Alijó
+11D170107,11D1701,5,170107,Favaios
+11D170108,11D1701,5,170108,Pegarinhos
+11D170109,11D1701,5,170109,Pinhão
+11D170112,11D1701,5,170112,Sanfins do Douro
+11D170113,11D1701,5,170113,Santa Eugénia
+11D170114,11D1701,5,170114,São Mamede de Ribatua
+11D170120,11D1701,5,170120,União das freguesias de Carlão e Amieiro
+11D170121,11D1701,5,170121,União das freguesias de Castedo e Cotas
+11D170122,11D1701,5,170122,União das freguesias de Pópulo e Ribalonga
+11D170123,11D1701,5,170123,"União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas"
+11D170116,11D1701,5,170116,Vila Chã
+11D170117,11D1701,5,170117,Vila Verde
+11D170118,11D1701,5,170118,Vilar de Maçada
+11D180101,11D1801,5,180101,Aldeias
+11D180120,11D1801,5,180120,Armamar
+11D180104,11D1801,5,180104,Cimbres
+11D180106,11D1801,5,180106,Folgosa
+11D180107,11D1801,5,180107,Fontelo
+11D180109,11D1801,5,180109,Queimada
+11D180110,11D1801,5,180110,Queimadela
+11D180111,11D1801,5,180111,Santa Cruz
+11D180114,11D1801,5,180114,São Cosmado
+11D180115,11D1801,5,180115,São Martinho das Chãs
+11D180121,11D1801,5,180121,União das freguesias de Aricera e Goujoim
+11D180122,11D1801,5,180122,União das freguesias de São Romão e Santiago
+11D180123,11D1801,5,180123,União das freguesias de Vila Seca e Santo Adrião
+11D180118,11D1801,5,180118,Vacalar
+11D040304,11D0403,5,040304,Carrazeda de Ansiães
+11D040306,11D0403,5,040306,Fonte Longa
+11D040308,11D0403,5,040308,Linhares
+11D040309,11D0403,5,040309,Marzagão
+11D040311,11D0403,5,040311,Parambos
+11D040312,11D0403,5,040312,Pereiros
+11D040313,11D0403,5,040313,Pinhal do Norte
+11D040314,11D0403,5,040314,Pombal
+11D040316,11D0403,5,040316,Seixo de Ansiães
+11D040320,11D0403,5,040320,União das freguesias de Amedo e Zedes
+11D040321,11D0403,5,040321,União das freguesias de Belver e Mogo de Malta
+11D040322,11D0403,5,040322,União das freguesias de Castanheiro do Norte e Ribalonga
+11D040323,11D0403,5,040323,"União das freguesias de Lavandeira, Beira Grande e Selores"
+11D040318,11D0403,5,040318,Vilarinho da Castanheira
+11D040404,11D0404,5,040404,Ligares
+11D040406,11D0404,5,040406,Poiares
+11D040407,11D0404,5,040407,União das freguesias de Freixo de Espada à Cinta e Mazouco
+11D040408,11D0404,5,040408,União das freguesias de Lagoaça e Fornos
+11D180502,11D1805,5,180502,Avões
+11D180504,11D1805,5,180504,Britiande
+11D180505,11D1805,5,180505,Cambres
+11D180507,11D1805,5,180507,Ferreirim
+11D180508,11D1805,5,180508,Ferreiros de Avões
+11D180509,11D1805,5,180509,Figueira
+11D180510,11D1805,5,180510,Lalim
+11D180525,11D1805,5,180525,Lamego (Almacave e Sé)
+11D180511,11D1805,5,180511,Lazarim
+11D180516,11D1805,5,180516,Penajóia
+11D180517,11D1805,5,180517,Penude
+11D180519,11D1805,5,180519,Samodães
+11D180520,11D1805,5,180520,Sande
+11D180526,11D1805,5,180526,"União das freguesias de Bigorne, Magueija e Pretarouca"
+11D180527,11D1805,5,180527,"União das freguesias de Cepões, Meijinhos e Melcões"
+11D180528,11D1805,5,180528,União das freguesias de Parada do Bispo e Valdigem
+11D180523,11D1805,5,180523,Várzea de Abrunhais
+11D180524,11D1805,5,180524,Vila Nova de Souto d'El-Rei
+11D170401,11D1704,5,170401,Barqueiros
+11D170402,11D1704,5,170402,Cidadelhe
+11D170408,11D1704,5,170408,Mesão Frio (Santo André)
+11D170403,11D1704,5,170403,Oliveira
+11D170407,11D1704,5,170407,Vila Marim
+11D180702,11D1807,5,180702,Alvite
+11D180703,11D1807,5,180703,Arcozelos
+11D180705,11D1807,5,180705,Baldos
+11D180706,11D1807,5,180706,Cabaços
+11D180707,11D1807,5,180707,Caria
+11D180708,11D1807,5,180708,Castelo
+11D180709,11D1807,5,180709,Leomil
+11D180710,11D1807,5,180710,Moimenta da Beira
+11D180713,11D1807,5,180713,Passô
+11D180716,11D1807,5,180716,Rua
+11D180717,11D1807,5,180717,Sarzedo
+11D180719,11D1807,5,180719,Sever
+11D180721,11D1807,5,180721,União das freguesias de Paradinha e Nagosa
+11D180722,11D1807,5,180722,"União das freguesias de Pêra Velha, Aldeia de Nacomba e Ariz"
+11D180723,11D1807,5,180723,União das freguesias de Peva e Segões
+11D180720,11D1807,5,180720,Vilar
+11D170701,11D1707,5,170701,Candedo
+11D170703,11D1707,5,170703,Fiolhoso
+11D170704,11D1707,5,170704,Jou
+11D170705,11D1707,5,170705,Murça
+11D170710,11D1707,5,170710,União das freguesias de Carva e Vilares
+11D170711,11D1707,5,170711,União das freguesias de Noura e Palheiros
+11D170708,11D1707,5,170708,Valongo de Milhais
+11D181202,11D1812,5,181202,Beselga
+11D181203,11D1812,5,181203,Castainço
+11D181207,11D1812,5,181207,Penela da Beira
+11D181208,11D1812,5,181208,Póvoa de Penela
+11D181209,11D1812,5,181209,Souto
+11D181210,11D1812,5,181210,União das freguesias de Antas e Ourozinho
+11D181211,11D1812,5,181211,União das freguesias de Penedono e Granja
+11D170802,11D1708,5,170802,Fontelas
+11D170805,11D1708,5,170805,Loureiro
+11D170809,11D1708,5,170809,Sedielos
+11D170813,11D1708,5,170813,União das freguesias de Galafura e Covelinhas
+11D170814,11D1708,5,170814,União das freguesias de Moura Morta e Vinhós
+11D170815,11D1708,5,170815,União das freguesias de Peso da Régua e Godim
+11D170816,11D1708,5,170816,União das freguesias de Poiares e Canelas
+11D170810,11D1708,5,170810,Vilarinho dos Freires
+11D171001,11D1710,5,171001,Celeirós
+11D171002,11D1710,5,171002,Covas do Douro
+11D171004,11D1710,5,171004,Gouvinhas
+11D171007,11D1710,5,171007,Paços
+11D171005,11D1710,5,171005,Parada de Pinhão
+11D171009,11D1710,5,171009,Sabrosa
+11D171011,11D1710,5,171011,São Lourenço de Ribapinhão
+11D171013,11D1710,5,171013,Souto Maior
+11D171014,11D1710,5,171014,Torre do Pinhão
+11D171016,11D1710,5,171016,"União das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro"
+11D171017,11D1710,5,171017,União das freguesias de São Martinho de Antas e Paradela de Guiães
+11D171015,11D1710,5,171015,Vilarinho de São Romão
+11D171101,11D1711,5,171101,Alvações do Corgo
+11D171102,11D1711,5,171102,Cumieira
+11D171103,11D1711,5,171103,Fontes
+11D171106,11D1711,5,171106,Medrões
+11D171110,11D1711,5,171110,Sever
+11D171111,11D1711,5,171111,União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane
+11D171112,11D1711,5,171112,União das freguesias de Louredo e Fornelos
+11D181501,11D1815,5,181501,Castanheiro do Sul
+11D181502,11D1815,5,181502,Ervedosa do Douro
+11D181504,11D1815,5,181504,Nagozelo do Douro
+11D181505,11D1815,5,181505,Paredes da Beira
+11D181507,11D1815,5,181507,Riodades
+11D181509,11D1815,5,181509,Soutelo do Douro
+11D181515,11D1815,5,181515,União das freguesias de São João da Pesqueira e Várzea de Trevões
+11D181516,11D1815,5,181516,União das freguesias de Trevões e Espinhosa
+11D181517,11D1815,5,181517,União das freguesias de Vilarouco e Pereiros
+11D181511,11D1815,5,181511,Vale de Figueira
+11D181512,11D1815,5,181512,Valongo dos Azeites
+11D181801,11D1818,5,181801,Arnas
+11D181802,11D1818,5,181802,Carregal
+11D181803,11D1818,5,181803,Chosendo
+11D181804,11D1818,5,181804,Cunha
+11D181806,11D1818,5,181806,Faia
+11D181810,11D1818,5,181810,Granjal
+11D181811,11D1818,5,181811,Lamosa
+11D181814,11D1818,5,181814,Quintela
+11D181818,11D1818,5,181818,União das freguesias de Ferreirim e Macieira
+11D181819,11D1818,5,181819,União das freguesias de Fonte Arcada e Escurquela
+11D181820,11D1818,5,181820,União das freguesias de Penso e Freixinho
+11D181821,11D1818,5,181821,União das freguesias de Sernancelhe e Sarzeda
+11D181817,11D1818,5,181817,Vila da Ponte
+11D181901,11D1819,5,181901,Adorigo
+11D181902,11D1819,5,181902,Arcos
+11D181904,11D1819,5,181904,Chavães
+11D181905,11D1819,5,181905,Desejosa
+11D181906,11D1819,5,181906,Granja do Tedo
+11D181908,11D1819,5,181908,Longa
+11D181913,11D1819,5,181913,Sendim
+11D181914,11D1819,5,181914,Tabuaço
+11D181918,11D1819,5,181918,União das freguesias de Barcos e Santa Leocádia
+11D181919,11D1819,5,181919,União das freguesias de Paradela e Granjinha
+11D181920,11D1819,5,181920,União das freguesias de Pinheiros e Vale de Figueira
+11D181921,11D1819,5,181921,União das freguesias de Távora e Pereiro
+11D181917,11D1819,5,181917,Valença do Douro
+11D182004,11D1820,5,182004,Mondim da Beira
+11D182005,11D1820,5,182005,Salzedas
+11D182006,11D1820,5,182006,São João de Tarouca
+11D182011,11D1820,5,182011,União das freguesias de Gouviães e Ucanha
+11D182012,11D1820,5,182012,União das freguesias de Granja Nova e Vila Chã da Beira
+11D182013,11D1820,5,182013,União das freguesias de Tarouca e Dálvares
+11D182009,11D1820,5,182009,Várzea da Serra
+11D040901,11D0409,5,040901,Açoreira
+11D040903,11D0409,5,040903,Cabeça Boa
+11D040905,11D0409,5,040905,Carviçais
+11D040906,11D0409,5,040906,Castedo
+11D040909,11D0409,5,040909,Horta da Vilariça
+11D040910,11D0409,5,040910,Larinho
+11D040911,11D0409,5,040911,Lousa
+11D040913,11D0409,5,040913,Mós
+11D040916,11D0409,5,040916,Torre de Moncorvo
+11D040918,11D0409,5,040918,União das freguesias de Adeganha e Cardanha
+11D040919,11D0409,5,040919,União das freguesias de Felgar e Souto da Velha
+11D040920,11D0409,5,040920,União das freguesias de Felgueiras e Maçores
+11D040921,11D0409,5,040921,União das freguesias de Urros e Peredo dos Castelhanos
+11D091401,11D0914,5,091401,Almendra
+11D091402,11D0914,5,091402,Castelo Melhor
+11D091403,11D0914,5,091403,Cedovim
+11D091404,11D0914,5,091404,Chãs
+11D091405,11D0914,5,091405,Custóias
+11D091418,11D0914,5,091418,Freixo de Numão
+11D091407,11D0914,5,091407,Horta
+11D091410,11D0914,5,091410,Muxagata
+11D091411,11D0914,5,091411,Numão
+11D091412,11D0914,5,091412,Santa Comba
+11D091414,11D0914,5,091414,Sebadelhe
+11D091415,11D0914,5,091415,Seixas
+11D091416,11D0914,5,091416,Touça
+11D091419,11D0914,5,091419,Vila Nova de Foz Côa
+11D171401,11D1714,5,171401,Abaças
+11D171403,11D1714,5,171403,Andrães
+11D171404,11D1714,5,171404,Arroios
+11D171406,11D1714,5,171406,Campeã
+11D171409,11D1714,5,171409,Folhadela
+11D171410,11D1714,5,171410,Guiães
+11D171414,11D1714,5,171414,Lordelo
+11D171415,11D1714,5,171415,Mateus
+11D171416,11D1714,5,171416,Mondrões
+11D171420,11D1714,5,171420,Parada de Cunhos
+11D171426,11D1714,5,171426,Torgueda
+11D171431,11D1714,5,171431,União das freguesias de Adoufe e Vilarinho de Samardã
+11D171432,11D1714,5,171432,União das freguesias de Borbela e Lamas de Olo
+11D171433,11D1714,5,171433,União das freguesias de Constantim e Vale de Nogueiras
+11D171434,11D1714,5,171434,União das freguesias de Mouçós e Lamares
+11D171435,11D1714,5,171435,União das freguesias de Nogueira e Ermida
+11D171436,11D1714,5,171436,"União das freguesias de Pena, Quintã e Vila Cova"
+11D171437,11D1714,5,171437,União das freguesias de São Tomé do Castelo e Justes
+11D171438,11D1714,5,171438,"União das freguesias de Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis)"
+11D171429,11D1714,5,171429,Vila Marim
+11E040102,11E0401,5,040102,Alfândega da Fé
+11E040103,11E0401,5,040103,Cerejais
+11E040111,11E0401,5,040111,Sambade
+11E040121,11E0401,5,040121,"União das freguesias de Agrobom, Saldonha e Vale Pereiro"
+11E040122,11E0401,5,040122,"União das freguesias de Eucisia, Gouveia e Valverde"
+11E040123,11E0401,5,040123,União das freguesias de Ferradosa e Sendim da Serra
+11E040124,11E0401,5,040124,União das freguesias de Gebelim e Soeima
+11E040125,11E0401,5,040125,União das freguesias de Parada e Sendim da Ribeira
+11E040126,11E0401,5,040126,União das freguesias de Pombal e Vales
+11E040118,11E0401,5,040118,Vilar Chão
+11E040119,11E0401,5,040119,Vilarelhos
+11E040120,11E0401,5,040120,Vilares de Vilariça
+11E040201,11E0402,5,040201,Alfaião
+11E040203,11E0402,5,040203,Babe
+11E040204,11E0402,5,040204,Baçal
+11E040206,11E0402,5,040206,Carragosa
+11E040209,11E0402,5,040209,Castro de Avelãs
+11E040210,11E0402,5,040210,Coelhoso
+11E040212,11E0402,5,040212,Donai
+11E040213,11E0402,5,040213,Espinhosela
+11E040215,11E0402,5,040215,França
+11E040216,11E0402,5,040216,Gimonde
+11E040217,11E0402,5,040217,Gondesende
+11E040218,11E0402,5,040218,Gostei
+11E040219,11E0402,5,040219,Grijó de Parada
+11E040221,11E0402,5,040221,Macedo do Mato
+11E040224,11E0402,5,040224,Mós
+11E040225,11E0402,5,040225,Nogueira
+11E040226,11E0402,5,040226,Outeiro
+11E040229,11E0402,5,040229,Parâmio
+11E040230,11E0402,5,040230,Pinela
+11E040232,11E0402,5,040232,Quintanilha
+11E040233,11E0402,5,040233,Quintela de Lampaças
+11E040234,11E0402,5,040234,Rabal
+11E040236,11E0402,5,040236,Rebordãos
+11E040239,11E0402,5,040239,Salsas
+11E040240,11E0402,5,040240,Samil
+11E040241,11E0402,5,040241,Santa Comba de Rossas
+11E040244,11E0402,5,040244,São Pedro de Sarracenos
+11E040246,11E0402,5,040246,Sendas
+11E040247,11E0402,5,040247,Serapicos
+11E040248,11E0402,5,040248,Sortes
+11E040250,11E0402,5,040250,União das freguesias de Aveleda e Rio de Onor
+11E040251,11E0402,5,040251,União das freguesias de Castrelos e Carrazedo
+11E040252,11E0402,5,040252,"União das freguesias de Izeda, Calvelhe e Paradinha Nova"
+11E040253,11E0402,5,040253,União das freguesias de Parada e Faílde
+11E040254,11E0402,5,040254,União das freguesias de Rebordainhos e Pombares
+11E040255,11E0402,5,040255,União das freguesias de Rio Frio e Milhão
+11E040256,11E0402,5,040256,União das freguesias de São Julião de Palácios e Deilão
+11E040257,11E0402,5,040257,"União das freguesias de Sé, Santa Maria e Meixedo"
+11E040249,11E0402,5,040249,Zoio
+11E040502,11E0405,5,040502,Amendoeira
+11E040503,11E0405,5,040503,Arcas
+11E040507,11E0405,5,040507,Carrapatas
+11E040509,11E0405,5,040509,Chacim
+11E040510,11E0405,5,040510,Cortiços
+11E040511,11E0405,5,040511,Corujas
+11E040514,11E0405,5,040514,Ferreira
+11E040515,11E0405,5,040515,Grijó
+11E040516,11E0405,5,040516,Lagoa
+11E040517,11E0405,5,040517,Lamalonga
+11E040518,11E0405,5,040518,Lamas
+11E040519,11E0405,5,040519,Lombo
+11E040520,11E0405,5,040520,Macedo de Cavaleiros
+11E040521,11E0405,5,040521,Morais
+11E040523,11E0405,5,040523,Olmos
+11E040524,11E0405,5,040524,Peredo
+11E040526,11E0405,5,040526,Salselas
+11E040528,11E0405,5,040528,Sezulfe
+11E040530,11E0405,5,040530,Talhas
+11E040539,11E0405,5,040539,União das freguesias de Ala e Vilarinho do Monte
+11E040540,11E0405,5,040540,União das freguesias de Bornes e Burga
+11E040541,11E0405,5,040541,União das freguesias de Castelãos e Vilar do Monte
+11E040542,11E0405,5,040542,"União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco"
+11E040543,11E0405,5,040543,União das freguesias de Podence e Santa Combinha
+11E040544,11E0405,5,040544,União das freguesias de Talhinhas e Bagueixe
+11E040532,11E0405,5,040532,Vale Benfeito
+11E040533,11E0405,5,040533,Vale da Porca
+11E040534,11E0405,5,040534,Vale de Prados
+11E040536,11E0405,5,040536,Vilarinho de Agrochão
+11E040538,11E0405,5,040538,Vinhas
+11E040604,11E0406,5,040604,Duas Igrejas
+11E040605,11E0406,5,040605,Genísio
+11E040607,11E0406,5,040607,Malhadas
+11E040608,11E0406,5,040608,Miranda do Douro
+11E040609,11E0406,5,040609,Palaçoulo
+11E040611,11E0406,5,040611,Picote
+11E040612,11E0406,5,040612,Póvoa
+11E040613,11E0406,5,040613,São Martinho de Angueira
+11E040618,11E0406,5,040618,União das freguesias de Constantim e Cicouro
+11E040619,11E0406,5,040619,União das freguesias de Ifanes e Paradela
+11E040620,11E0406,5,040620,União das freguesias de Sendim e Atenor
+11E040621,11E0406,5,040621,União das freguesias de Silva e Águas Vivas
+11E040616,11E0406,5,040616,Vila Chã de Braciosa
+11E040701,11E0407,5,040701,Abambres
+11E040702,11E0407,5,040702,Abreiro
+11E040703,11E0407,5,040703,Aguieiras
+11E040704,11E0407,5,040704,Alvites
+11E040708,11E0407,5,040708,Bouça
+11E040709,11E0407,5,040709,Cabanelas
+11E040710,11E0407,5,040710,Caravelas
+11E040711,11E0407,5,040711,Carvalhais
+11E040712,11E0407,5,040712,Cedães
+11E040713,11E0407,5,040713,Cobro
+11E040714,11E0407,5,040714,Fradizela
+11E040716,11E0407,5,040716,Frechas
+11E040718,11E0407,5,040718,Lamas de Orelhão
+11E040720,11E0407,5,040720,Mascarenhas
+11E040721,11E0407,5,040721,Mirandela
+11E040722,11E0407,5,040722,Múrias
+11E040724,11E0407,5,040724,Passos
+11E040727,11E0407,5,040727,São Pedro Velho
+11E040728,11E0407,5,040728,São Salvador
+11E040729,11E0407,5,040729,Suçães
+11E040730,11E0407,5,040730,Torre de Dona Chama
+11E040738,11E0407,5,040738,União das freguesias de Avantos e Romeu
+11E040739,11E0407,5,040739,"União das Freguesias de Avidagos, Navalho e Pereira"
+11E040740,11E0407,5,040740,"União das freguesias de Barcel, Marmelos e Valverde da Gestosa"
+11E040741,11E0407,5,040741,União das freguesias de Franco e Vila Boa
+11E040742,11E0407,5,040742,União das freguesias de Freixeda e Vila Verde
+11E040731,11E0407,5,040731,Vale de Asnes
+11E040732,11E0407,5,040732,Vale de Gouvinhas
+11E040733,11E0407,5,040733,Vale de Salgueiro
+11E040734,11E0407,5,040734,Vale de Telhas
+11E040801,11E0408,5,040801,Azinhoso
+11E040802,11E0408,5,040802,Bemposta
+11E040803,11E0408,5,040803,Bruçó
+11E040804,11E0408,5,040804,Brunhoso
+11E040807,11E0408,5,040807,Castelo Branco
+11E040808,11E0408,5,040808,Castro Vicente
+11E040809,11E0408,5,040809,Meirinhos
+11E040811,11E0408,5,040811,Paradela
+11E040812,11E0408,5,040812,Penas Roias
+11E040813,11E0408,5,040813,Peredo da Bemposta
+11E040815,11E0408,5,040815,Saldanha
+11E040817,11E0408,5,040817,São Martinho do Peso
+11E040819,11E0408,5,040819,Tó
+11E040820,11E0408,5,040820,Travanca
+11E040829,11E0408,5,040829,"União das freguesias de Brunhozinho, Castanheira e Sanhoane"
+11E040830,11E0408,5,040830,"União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei"
+11E040831,11E0408,5,040831,União das freguesias de Remondes e Soutelo
+11E040832,11E0408,5,040832,União das freguesias de Vilarinho dos Galegos e Ventozelo
+11E040821,11E0408,5,040821,Urrós
+11E040822,11E0408,5,040822,Vale da Madre
+11E040826,11E0408,5,040826,Vila de Ala
+11E041002,11E0410,5,041002,Benlhevai
+11E041005,11E0410,5,041005,Freixiel
+11E041009,11E0410,5,041009,Roios
+11E041010,11E0410,5,041010,Samões
+11E041011,11E0410,5,041011,Sampaio
+11E041012,11E0410,5,041012,Santa Comba de Vilariça
+11E041013,11E0410,5,041013,Seixo de Manhoses
+11E041014,11E0410,5,041014,Trindade
+11E041020,11E0410,5,041020,União das freguesias de Assares e Lodões
+11E041021,11E0410,5,041021,União das freguesias de Candoso e Carvalho de Egas
+11E041022,11E0410,5,041022,União das freguesias de Valtorno e Mourão
+11E041023,11E0410,5,041023,União das freguesias de Vila Flor e Nabo
+11E041024,11E0410,5,041024,União das freguesias de Vilas Boas e Vilarinho das Azenhas
+11E041015,11E0410,5,041015,Vale Frechoso
+11E041103,11E0411,5,041103,Argozelo
+11E041107,11E0411,5,041107,Carção
+11E041108,11E0411,5,041108,Matela
+11E041109,11E0411,5,041109,Pinelo
+11E041110,11E0411,5,041110,Santulhão
+11E041115,11E0411,5,041115,"União das freguesias de Algoso, Campo de Víboras e Uva"
+11E041116,11E0411,5,041116,União das freguesias de Caçarelhos e Angueira
+11E041117,11E0411,5,041117,União das freguesias de Vale de Frades e Avelanoso
+11E041113,11E0411,5,041113,Vilar Seco
+11E041114,11E0411,5,041114,Vimioso
+11E041201,11E0412,5,041201,Agrochão
+11E041203,11E0412,5,041203,Candedo
+11E041204,11E0412,5,041204,Celas
+11E041206,11E0412,5,041206,Edral
+11E041207,11E0412,5,041207,Edrosa
+11E041208,11E0412,5,041208,Ervedosa
+11E041215,11E0412,5,041215,Paçó
+11E041216,11E0412,5,041216,Penhas Juntas
+11E041219,11E0412,5,041219,Rebordelo
+11E041221,11E0412,5,041221,Santalha
+11E041226,11E0412,5,041226,Tuizelo
+11E041236,11E0412,5,041236,União das freguesias de Curopos e Vale de Janeiro
+11E041237,11E0412,5,041237,União das freguesias de Moimenta e Montouto
+11E041238,11E0412,5,041238,União das freguesias de Nunes e Ousilhão
+11E041239,11E0412,5,041239,União das freguesias de Quirás e Pinheiro Novo
+11E041240,11E0412,5,041240,União das freguesias de Sobreiro de Baixo e Alvaredos
+11E041241,11E0412,5,041241,"União das freguesias de Soeira, Fresulfe e Mofreita"
+11E041242,11E0412,5,041242,União das freguesias de Travanca e Santa Cruz
+11E041243,11E0412,5,041243,União das freguesias de Vilar de Lomba e São Jomil
+11E041227,11E0412,5,041227,Vale das Fontes
+11E041229,11E0412,5,041229,Vila Boa de Ousilhão
+11E041230,11E0412,5,041230,Vila Verde
+11E041232,11E0412,5,041232,Vilar de Ossos
+11E041233,11E0412,5,041233,Vilar de Peregrinos
+11E041234,11E0412,5,041234,Vilar Seco de Lomba
+11E041235,11E0412,5,041235,Vinhais
+16B100102,16B1001,5,100102,Alfeizerão
+16B100120,16B1001,5,100120,Aljubarrota
+16B100104,16B1001,5,100104,Bárrio
+16B100105,16B1001,5,100105,Benedita
+16B100106,16B1001,5,100106,Cela
+16B100108,16B1001,5,100108,Évora de Alcobaça
+16B100109,16B1001,5,100109,Maiorga
+16B100112,16B1001,5,100112,São Martinho do Porto
+16B100114,16B1001,5,100114,Turquel
+16B100121,16B1001,5,100121,União das freguesias de Alcobaça e Vestiaria
+16B100122,16B1001,5,100122,"União das freguesias de Coz, Alpedriz e Montes"
+16B100123,16B1001,5,100123,União das freguesias de Pataias e Martingança
+16B100116,16B1001,5,100116,Vimeiro
+16B110106,16B1101,5,110106,Carnota
+16B110107,16B1101,5,110107,Meca
+16B110108,16B1101,5,110108,Olhalvo
+16B110109,16B1101,5,110109,Ota
+16B110117,16B1101,5,110117,União das freguesias de Abrigada e Cabanas de Torres
+16B110118,16B1101,5,110118,União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha
+16B110119,16B1101,5,110119,União das freguesias de Alenquer (Santo Estêvão e Triana)
+16B110120,16B1101,5,110120,União das freguesias de Carregado e Cadafais
+16B110121,16B1101,5,110121,União das freguesias de Ribafria e Pereiro de Palhacana
+16B110113,16B1101,5,110113,Ventosa
+16B110114,16B1101,5,110114,Vila Verde dos Francos
+16B110201,16B1102,5,110201,Arranhó
+16B110202,16B1102,5,110202,Arruda dos Vinhos
+16B110203,16B1102,5,110203,Cardosas
+16B110204,16B1102,5,110204,Santiago dos Velhos
+16B100502,16B1005,5,100502,Carvalhal
+16B100505,16B1005,5,100505,Pó
+16B100503,16B1005,5,100503,Roliça
+16B100506,16B1005,5,100506,União das freguesias do Bombarral e Vale Covo
+16B110401,16B1104,5,110401,Alguber
+16B110407,16B1104,5,110407,Peral
+16B110412,16B1104,5,110412,União das freguesias de Lamas e Cercal
+16B110413,16B1104,5,110413,União das freguesias de Painho e Figueiros
+16B110411,16B1104,5,110411,União das freguesias do Cadaval e Pêro Moniz
+16B110409,16B1104,5,110409,Vermelha
+16B110410,16B1104,5,110410,Vilar
+16B100601,16B1006,5,100601,A dos Francos
+16B100602,16B1006,5,100602,Alvorninha
+16B100604,16B1006,5,100604,Carvalhal Benfeito
+16B100606,16B1006,5,100606,Foz do Arelho
+16B100607,16B1006,5,100607,Landal
+16B100608,16B1006,5,100608,Nadadouro
+16B100609,16B1006,5,100609,Salir de Matos
+16B100611,16B1006,5,100611,Santa Catarina
+16B100617,16B1006,5,100617,"União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório"
+16B100618,16B1006,5,100618,União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro
+16B100619,16B1006,5,100619,União das freguesias de Tornada e Salir do Porto
+16B100615,16B1006,5,100615,Vidais
+16B110803,16B1108,5,110803,Moita dos Ferreiros
+16B110805,16B1108,5,110805,Reguengo Grande
+16B110810,16B1108,5,110810,Ribamar
+16B110806,16B1108,5,110806,Santa Bárbara
+16B110812,16B1108,5,110812,União das freguesias de Lourinhã e Atalaia
+16B110813,16B1108,5,110813,União das freguesias de Miragaia e Marteleira
+16B110814,16B1108,5,110814,União das freguesias de São Bartolomeu dos Galegos e Moledo
+16B110808,16B1108,5,110808,Vimeiro
+16B101101,16B1011,5,101101,Famalicão
+16B101102,16B1011,5,101102,Nazaré
+16B101103,16B1011,5,101103,Valado dos Frades
+16B101201,16B1012,5,101201,A dos Negros
+16B101202,16B1012,5,101202,Amoreira
+16B101208,16B1012,5,101208,Gaeiras
+16B101203,16B1012,5,101203,Olho Marinho
+16B101210,16B1012,5,101210,"Santa Maria, São Pedro e Sobral da Lagoa"
+16B101209,16B1012,5,101209,Usseira
+16B101207,16B1012,5,101207,Vau
+16B101402,16B1014,5,101402,Atouguia da Baleia
+16B101406,16B1014,5,101406,Ferrel
+16B101407,16B1014,5,101407,Peniche
+16B101405,16B1014,5,101405,Serra d'El-Rei
+16B111201,16B1112,5,111201,Santo Quintino
+16B111202,16B1112,5,111202,Sapataria
+16B111203,16B1112,5,111203,Sobral de Monte Agraço
+16B111306,16B1113,5,111306,Freiria
+16B111310,16B1113,5,111310,Ponte do Rol
+16B111311,16B1113,5,111311,Ramalhal
+16B111314,16B1113,5,111314,São Pedro da Cadeira
+16B111316,16B1113,5,111316,Silveira
+16B111317,16B1113,5,111317,Turcifal
+16B111321,16B1113,5,111321,União das freguesias de A dos Cunhados e Maceira
+16B111322,16B1113,5,111322,União das freguesias de Campelos e Outeiro da Cabeça
+16B111323,16B1113,5,111323,União das freguesias de Carvoeira e Carmões
+16B111324,16B1113,5,111324,União das freguesias de Dois Portos e Runa
+16B111325,16B1113,5,111325,União das freguesias de Maxial e Monte Redondo
+16B111326,16B1113,5,111326,"União das freguesias de Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães"
+16B111318,16B1113,5,111318,Ventosa
+16D010103,16D0101,5,010103,Aguada de Cima
+16D010109,16D0101,5,010109,Fermentelos
+16D010112,16D0101,5,010112,Macinhata do Vouga
+16D010121,16D0101,5,010121,União das freguesias de Águeda e Borralha
+16D010122,16D0101,5,010122,União das freguesias de Barrô e Aguada de Baixo
+16D010123,16D0101,5,010123,"União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão"
+16D010124,16D0101,5,010124,União das freguesias de Recardães e Espinhel
+16D010125,16D0101,5,010125,União das freguesias de Travassô e Óis da Ribeira
+16D010126,16D0101,5,010126,"União das freguesias de Trofa, Segadães e Lamas do Vouga"
+16D010127,16D0101,5,010127,União das freguesias do Préstimo e Macieira de Alcoba
+16D010119,16D0101,5,010119,Valongo do Vouga
+16D010209,16D0102,5,010209,Albergaria-a-Velha e Valmaior
+16D010202,16D0102,5,010202,Alquerubim
+16D010203,16D0102,5,010203,Angeja
+16D010204,16D0102,5,010204,Branca
+16D010206,16D0102,5,010206,Ribeira de Fráguas
+16D010210,16D0102,5,010210,São João de Loure e Frossos
+16D010304,16D0103,5,010304,Avelãs de Caminho
+16D010305,16D0103,5,010305,Avelãs de Cima
+16D010307,16D0103,5,010307,Moita
+16D010309,16D0103,5,010309,Sangalhos
+16D010310,16D0103,5,010310,São Lourenço do Bairro
+16D010316,16D0103,5,010316,"União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas"
+16D010317,16D0103,5,010317,União das freguesias de Arcos e Mogofores
+16D010318,16D0103,5,010318,"União das freguesias de Tamengos, Aguim e Óis do Bairro"
+16D010312,16D0103,5,010312,Vila Nova de Monsarros
+16D010313,16D0103,5,010313,Vilarinho do Bairro
+16D010501,16D0105,5,010501,Aradas
+16D010502,16D0105,5,010502,Cacia
+16D010515,16D0105,5,010515,Eixo e Eirol
+16D010505,16D0105,5,010505,Esgueira
+16D010508,16D0105,5,010508,Oliveirinha
+16D010516,16D0105,5,010516,"Requeixo, Nossa Senhora de Fátima e Nariz"
+16D010513,16D0105,5,010513,Santa Joana
+16D010510,16D0105,5,010510,São Bernardo
+16D010511,16D0105,5,010511,São Jacinto
+16D010517,16D0105,5,010517,União das freguesias de Glória e Vera Cruz
+16D010801,16D0108,5,010801,Avanca
+16D010805,16D0108,5,010805,Pardilhó
+16D010806,16D0108,5,010806,Salreu
+16D010808,16D0108,5,010808,União das freguesias de Beduído e Veiros
+16D010809,16D0108,5,010809,União das freguesias de Canelas e Fermelã
+16D011005,16D0110,5,011005,Gafanha da Encarnação
+16D011006,16D0110,5,011006,Gafanha da Nazaré
+16D011007,16D0110,5,011007,Gafanha do Carmo
+16D011008,16D0110,5,011008,Ílhavo (São Salvador)
+16D011201,16D0112,5,011201,Bunheiro
+16D011202,16D0112,5,011202,Monte
+16D011203,16D0112,5,011203,Murtosa
+16D011204,16D0112,5,011204,Torreira
+16D011403,16D0114,5,011403,Oiã
+16D011404,16D0114,5,011404,Oliveira do Bairro
+16D011405,16D0114,5,011405,Palhaça
+16D011407,16D0114,5,011407,"União das freguesias de Bustos, Troviscal e Mamarrosa"
+16D011502,16D0115,5,011502,Cortegaça
+16D011503,16D0115,5,011503,Esmoriz
+16D011504,16D0115,5,011504,Maceda
+16D011509,16D0115,5,011509,"União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã"
+16D011507,16D0115,5,011507,Válega
+16D011702,16D0117,5,011702,Couto de Esteves
+16D011704,16D0117,5,011704,Pessegueiro do Vouga
+16D011705,16D0117,5,011705,Rocas do Vouga
+16D011706,16D0117,5,011706,Sever do Vouga
+16D011708,16D0117,5,011708,Talhadas
+16D011710,16D0117,5,011710,União das freguesias de Cedrim e Paradela
+16D011711,16D0117,5,011711,União das freguesias de Silva Escura e Dornelas
+16D011801,16D0118,5,011801,Calvão
+16D011804,16D0118,5,011804,Gafanha da Boa Hora
+16D011805,16D0118,5,011805,Ouca
+16D011810,16D0118,5,011810,Santo André de Vagos
+16D011807,16D0118,5,011807,Sosa
+16D011812,16D0118,5,011812,União das freguesias de Fonte de Angeão e Covão do Lobo
+16D011813,16D0118,5,011813,União das freguesias de Ponte de Vagos e Santa Catarina
+16D011814,16D0118,5,011814,União das freguesias de Vagos e Santo António
+16E060102,16E0601,5,060102,Arganil
+16E060104,16E0601,5,060104,Benfeita
+16E060105,16E0601,5,060105,Celavisa
+16E060109,16E0601,5,060109,Folques
+16E060111,16E0601,5,060111,Piódão
+16E060112,16E0601,5,060112,Pomares
+16E060113,16E0601,5,060113,Pombeiro da Beira
+16E060114,16E0601,5,060114,São Martinho da Cortiça
+16E060115,16E0601,5,060115,Sarzedo
+16E060116,16E0601,5,060116,Secarias
+16E060119,16E0601,5,060119,União das freguesias de Cepos e Teixeira
+16E060120,16E0601,5,060120,União das freguesias de Cerdeira e Moura da Serra
+16E060121,16E0601,5,060121,União das freguesias de Côja e Barril de Alva
+16E060122,16E0601,5,060122,União das freguesias de Vila Cova de Alva e Anseriz
+16E060201,16E0602,5,060201,Ançã
+16E060203,16E0602,5,060203,Cadima
+16E060205,16E0602,5,060205,Cordinhã
+16E060207,16E0602,5,060207,Febres
+16E060208,16E0602,5,060208,Murtede
+16E060209,16E0602,5,060209,Ourentã
+16E060218,16E0602,5,060218,Sanguinheira
+16E060215,16E0602,5,060215,São Caetano
+16E060214,16E0602,5,060214,Tocha
+16E060220,16E0602,5,060220,União das freguesias de Cantanhede e Pocariça
+16E060221,16E0602,5,060221,União das freguesias de Covões e Camarneira
+16E060222,16E0602,5,060222,União das freguesias de Portunhos e Outil
+16E060223,16E0602,5,060223,União das freguesias de Sepins e Bolho
+16E060224,16E0602,5,060224,União das freguesias de Vilamar e Corticeiro de Cima
+16E060301,16E0603,5,060301,Almalaguês
+16E060309,16E0603,5,060309,Brasfemes
+16E060311,16E0603,5,060311,Ceira
+16E060312,16E0603,5,060312,Cernache
+16E060318,16E0603,5,060318,Santo António dos Olivais
+16E060320,16E0603,5,060320,São João do Campo
+16E060324,16E0603,5,060324,São Silvestre
+16E060329,16E0603,5,060329,Torres do Mondego
+16E060332,16E0603,5,060332,União das freguesias de Antuzede e Vil de Matos
+16E060333,16E0603,5,060333,União das freguesias de Assafarge e Antanhol
+16E060334,16E0603,5,060334,"União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)"
+16E060335,16E0603,5,060335,União das freguesias de Eiras e São Paulo de Frades
+16E060336,16E0603,5,060336,União das freguesias de Santa Clara e Castelo Viegas
+16E060337,16E0603,5,060337,União das freguesias de São Martinho de Árvore e Lamarosa
+16E060338,16E0603,5,060338,União das freguesias de São Martinho do Bispo e Ribeira de Frades
+16E060339,16E0603,5,060339,União das freguesias de Souselas e Botão
+16E060340,16E0603,5,060340,"União das freguesias de Taveiro, Ameal e Arzila"
+16E060341,16E0603,5,060341,União das freguesias de Trouxemil e Torre de Vilela
+16E060401,16E0604,5,060401,Anobra
+16E060406,16E0604,5,060406,Ega
+16E060407,16E0604,5,060407,Furadouro
+16E060411,16E0604,5,060411,União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova
+16E060412,16E0604,5,060412,União das freguesias de Sebal e Belide
+16E060413,16E0604,5,060413,União das freguesias de Vila Seca e Bem da Fé
+16E060410,16E0604,5,060410,Zambujal
+16E060519,16E0605,5,060519,Alhadas
+16E060502,16E0605,5,060502,Alqueidão
+16E060515,16E0605,5,060515,Bom Sucesso
+16E060520,16E0605,5,060520,Buarcos
+16E060521,16E0605,5,060521,Ferreira-a-Nova
+16E060522,16E0605,5,060522,Lavos
+16E060507,16E0605,5,060507,Maiorca
+16E060508,16E0605,5,060508,Marinha das Ondas
+16E060518,16E0605,5,060518,Moinhos da Gândara
+16E060523,16E0605,5,060523,Paião
+16E060524,16E0605,5,060524,Quiaios
+16E060514,16E0605,5,060514,São Pedro
+16E060512,16E0605,5,060512,Tavarede
+16E060513,16E0605,5,060513,Vila Verde
+16E060601,16E0606,5,060601,Alvares
+16E060604,16E0606,5,060604,Góis
+16E060606,16E0606,5,060606,União das freguesias de Cadafaz e Colmeal
+16E060605,16E0606,5,060605,Vila Nova do Ceira
+16E060706,16E0607,5,060706,Gândaras
+16E060704,16E0607,5,060704,Serpins
+16E060707,16E0607,5,060707,União das freguesias de Foz de Arouce e Casal de Ermio
+16E060708,16E0607,5,060708,União das freguesias de Lousã e Vilarinho
+16E011102,16E0111,5,011102,Barcouço
+16E011103,16E0111,5,011103,Casal Comba
+16E011104,16E0111,5,011104,Luso
+16E011106,16E0111,5,011106,Pampilhosa
+16E011109,16E0111,5,011109,"União das freguesias da Mealhada, Ventosa do Bairro e Antes"
+16E011107,16E0111,5,011107,Vacariça
+16E060803,16E0608,5,060803,Carapelhos
+16E060801,16E0608,5,060801,Mira
+16E060804,16E0608,5,060804,Praia de Mira
+16E060802,16E0608,5,060802,Seixo
+16E060901,16E0609,5,060901,Lamas
+16E060902,16E0609,5,060902,Miranda do Corvo
+16E060906,16E0609,5,060906,União das freguesias de Semide e Rio Vide
+16E060905,16E0609,5,060905,Vila Nova
+16E061002,16E0610,5,061002,Arazede
+16E061003,16E0610,5,061003,Carapinheira
+16E061014,16E0610,5,061014,Ereira
+16E061005,16E0610,5,061005,Liceia
+16E061006,16E0610,5,061006,Meãs do Campo
+16E061008,16E0610,5,061008,Pereira
+16E061009,16E0610,5,061009,Santo Varão
+16E061010,16E0610,5,061010,Seixo de Gatões
+16E061011,16E0610,5,061011,Tentúgal
+16E061015,16E0610,5,061015,"União das freguesias de Abrunheira, Verride e Vila Nova da Barca"
+16E061016,16E0610,5,061016,União das freguesias de Montemor-o-Velho e Gatões
+16E180802,16E1808,5,180802,Cercosa
+16E180804,16E1808,5,180804,Espinho
+16E180805,16E1808,5,180805,Marmeleira
+16E180807,16E1808,5,180807,Pala
+16E180808,16E1808,5,180808,Sobral
+16E180809,16E1808,5,180809,Trezói
+16E180811,16E1808,5,180811,"União das freguesias de Mortágua, Vale de Remígio, Cortegaça e Almaça"
+16E061101,16E0611,5,061101,Aldeia das Dez
+16E061102,16E0611,5,061102,Alvoco das Várzeas
+16E061103,16E0611,5,061103,Avô
+16E061104,16E0611,5,061104,Bobadela
+16E061106,16E0611,5,061106,Lagares
+16E061109,16E0611,5,061109,Lourosa
+16E061110,16E0611,5,061110,Meruge
+16E061111,16E0611,5,061111,Nogueira do Cravo
+16E061115,16E0611,5,061115,São Gião
+16E061118,16E0611,5,061118,Seixo da Beira
+16E061119,16E0611,5,061119,Travanca de Lagos
+16E061122,16E0611,5,061122,União das freguesias de Ervedal e Vila Franca da Beira
+16E061123,16E0611,5,061123,União das freguesias de Lagos da Beira e Lajeosa
+16E061124,16E0611,5,061124,União das freguesias de Oliveira do Hospital e São Paio de Gramaços
+16E061125,16E0611,5,061125,União das freguesias de Penalva de Alva e São Sebastião da Feira
+16E061126,16E0611,5,061126,União das freguesias de Santa Ovaia e Vila Pouca da Beira
+16E061201,16E0612,5,061201,Cabril
+16E061202,16E0612,5,061202,Dornelas do Zêzere
+16E061211,16E0612,5,061211,Fajão-Vidual
+16E061204,16E0612,5,061204,Janeiro de Baixo
+16E061206,16E0612,5,061206,Pampilhosa da Serra
+16E061207,16E0612,5,061207,Pessegueiro
+16E061212,16E0612,5,061212,Portela do Fojo-Machio
+16E061209,16E0612,5,061209,Unhais-o-Velho
+16E061301,16E0613,5,061301,Carvalho
+16E061302,16E0613,5,061302,Figueira de Lorvão
+16E061304,16E0613,5,061304,Lorvão
+16E061307,16E0613,5,061307,Penacova
+16E061310,16E0613,5,061310,Sazes do Lorvão
+16E061312,16E0613,5,061312,União das freguesias de Friúmes e Paradela
+16E061313,16E0613,5,061313,União das freguesias de Oliveira do Mondego e Travanca do Mondego
+16E061314,16E0613,5,061314,União das freguesias de São Pedro de Alva e São Paio de Mondego
+16E061401,16E0614,5,061401,Cumeeira
+16E061402,16E0614,5,061402,Espinhal
+16E061403,16E0614,5,061403,Podentes
+16E061407,16E0614,5,061407,"União das freguesias de São Miguel, Santa Eufémia e Rabaçal"
+16E061501,16E0615,5,061501,Alfarelos
+16E061504,16E0615,5,061504,Figueiró do Campo
+16E061506,16E0615,5,061506,Granja do Ulmeiro
+16E061508,16E0615,5,061508,Samuel
+16E061509,16E0615,5,061509,Soure
+16E061510,16E0615,5,061510,Tapéus
+16E061513,16E0615,5,061513,União das freguesias de Degracias e Pombalinho
+16E061514,16E0615,5,061514,União das freguesias de Gesteira e Brunhós
+16E061511,16E0615,5,061511,Vila Nova de Anços
+16E061512,16E0615,5,061512,Vinha da Rainha
+16E061602,16E0616,5,061602,Candosa
+16E061603,16E0616,5,061603,Carapinha
+16E061608,16E0616,5,061608,Midões
+16E061609,16E0616,5,061609,Mouronho
+16E061611,16E0616,5,061611,Póvoa de Midões
+16E061612,16E0616,5,061612,São João da Boa Vista
+16E061614,16E0616,5,061614,Tábua
+16E061616,16E0616,5,061616,União das freguesias de Ázere e Covelo
+16E061617,16E0616,5,061617,União das freguesias de Covas e Vila Nova de Oliveirinha
+16E061618,16E0616,5,061618,União das freguesias de Espariz e Sinde
+16E061619,16E0616,5,061619,União das freguesias de Pinheiro de Coja e Meda de Mouros
+16E061701,16E0617,5,061701,Arrifana
+16E061702,16E0617,5,061702,Lavegadas
+16E061703,16E0617,5,061703,Poiares (Santo André)
+16E061704,16E0617,5,061704,São Miguel de Poiares
+16F100201,16F1002,5,100201,Almoster
+16F100208,16F1002,5,100208,Alvaiázere
+16F100204,16F1002,5,100204,Maçãs de Dona Maria
+16F100205,16F1002,5,100205,Pelmá
+16F100209,16F1002,5,100209,Pussos São Pedro
+16F100301,16F1003,5,100301,Alvorge
+16F100309,16F1003,5,100309,Ansião
+16F100303,16F1003,5,100303,Avelar
+16F100304,16F1003,5,100304,Chão de Couce
+16F100306,16F1003,5,100306,Pousaflores
+16F100307,16F1003,5,100307,Santiago da Guarda
+16F100401,16F1004,5,100401,Batalha
+16F100404,16F1004,5,100404,Golpilheira
+16F100402,16F1004,5,100402,Reguengo do Fetal
+16F100403,16F1004,5,100403,São Mamede
+16F100703,16F1007,5,100703,União das freguesias de Castanheira de Pêra e Coentral
+16F100801,16F1008,5,100801,Aguda
+16F100802,16F1008,5,100802,Arega
+16F100803,16F1008,5,100803,Campelo
+16F100806,16F1008,5,100806,União das freguesias de Figueiró dos Vinhos e Bairradas
+16F100901,16F1009,5,100901,Amor
+16F100902,16F1009,5,100902,Arrabal
+16F100925,16F1009,5,100925,Bajouca
+16F100926,16F1009,5,100926,Bidoeira de Cima
+16F100907,16F1009,5,100907,Caranguejeira
+16F100909,16F1009,5,100909,Coimbrão
+16F100913,16F1009,5,100913,Maceira
+16F100915,16F1009,5,100915,Milagres
+16F100921,16F1009,5,100921,Regueira de Pontes
+16F100932,16F1009,5,100932,União das freguesias de Colmeias e Memória
+16F100933,16F1009,5,100933,"União das freguesias de Leiria, Pousos, Barreira e Cortes"
+16F100934,16F1009,5,100934,União das freguesias de Marrazes e Barosa
+16F100935,16F1009,5,100935,União das freguesias de Monte Real e Carvide
+16F100936,16F1009,5,100936,União das freguesias de Monte Redondo e Carreira
+16F100937,16F1009,5,100937,União das freguesias de Parceiros e Azoia
+16F100938,16F1009,5,100938,União das freguesias de Santa Catarina da Serra e Chainça
+16F100939,16F1009,5,100939,União das freguesias de Santa Eufémia e Boa Vista
+16F100940,16F1009,5,100940,União das freguesias de Souto da Carpalhosa e Ortigosa
+16F101001,16F1010,5,101001,Marinha Grande
+16F101003,16F1010,5,101003,Moita
+16F101002,16F1010,5,101002,Vieira de Leiria
+16F101301,16F1013,5,101301,Graça
+16F101302,16F1013,5,101302,Pedrógão Grande
+16F101303,16F1013,5,101303,Vila Facaia
+16F101501,16F1015,5,101501,Abiul
+16F101503,16F1015,5,101503,Almagreira
+16F101504,16F1015,5,101504,Carnide
+16F101505,16F1015,5,101505,Carriço
+16F101506,16F1015,5,101506,Louriçal
+16F101515,16F1015,5,101515,Meirinhas
+16F101508,16F1015,5,101508,Pelariga
+16F101509,16F1015,5,101509,Pombal
+16F101510,16F1015,5,101510,Redinha
+16F101518,16F1015,5,101518,"União das freguesias de Guia, Ilha e Mata Mourisca"
+16F101519,16F1015,5,101519,União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze
+16F101513,16F1015,5,101513,Vermoil
+16F101514,16F1015,5,101514,Vila Cã
+16F101602,16F1016,5,101602,Alqueidão da Serra
+16F101605,16F1016,5,101605,Calvaria de Cima
+16F101606,16F1016,5,101606,Juncal
+16F101608,16F1016,5,101608,Mira de Aire
+16F101609,16F1016,5,101609,Pedreiras
+16F101614,16F1016,5,101614,Porto de Mós - São João Baptista e São Pedro
+16F101610,16F1016,5,101610,São Bento
+16F101613,16F1016,5,101613,Serro Ventoso
+16F101615,16F1016,5,101615,União das freguesias de Alvados e Alcaria
+16F101616,16F1016,5,101616,União das freguesias de Arrimal e Mendiga
+16G090102,16G0901,5,090102,Carapito
+16G090103,16G0901,5,090103,Cortiçada
+16G090105,16G0901,5,090105,Dornelas
+16G090106,16G0901,5,090106,Eirado
+16G090107,16G0901,5,090107,Forninhos
+16G090109,16G0901,5,090109,Pena Verde
+16G090110,16G0901,5,090110,Pinheiro
+16G090114,16G0901,5,090114,União das freguesias de Aguiar da Beira e Coruche
+16G090115,16G0901,5,090115,União das freguesias de Sequeiros e Gradiz
+16G090116,16G0901,5,090116,União das freguesias de Souto de Aguiar da Beira e Valverde
+16G180201,16G1802,5,180201,Beijós
+16G180202,16G1802,5,180202,Cabanas de Viriato
+16G180204,16G1802,5,180204,Oliveira do Conde
+16G180206,16G1802,5,180206,Parada
+16G180208,16G1802,5,180208,"União das freguesias de Currelos, Papízios e Sobral"
+16G180301,16G1803,5,180301,Almofala
+16G180303,16G1803,5,180303,Cabril
+16G180304,16G1803,5,180304,Castro Daire
+16G180305,16G1803,5,180305,Cujó
+16G180309,16G1803,5,180309,Gosende
+16G180312,16G1803,5,180312,Mões
+16G180313,16G1803,5,180313,Moledo
+16G180314,16G1803,5,180314,Monteiras
+16G180317,16G1803,5,180317,Pepim
+16G180319,16G1803,5,180319,Pinheiro
+16G180322,16G1803,5,180322,São Joaninho
+16G180323,16G1803,5,180323,"União das freguesias de Mamouros, Alva e Ribolhos"
+16G180324,16G1803,5,180324,União das freguesias de Mezio e Moura Morta
+16G180325,16G1803,5,180325,União das freguesias de Parada de Ester e Ester
+16G180326,16G1803,5,180326,União das freguesias de Picão e Ermida
+16G180327,16G1803,5,180327,União das freguesias de Reriz e Gafanhão
+16G180601,16G1806,5,180601,Abrunhosa-a-Velha
+16G180602,16G1806,5,180602,Alcafache
+16G180605,16G1806,5,180605,Cunha Baixa
+16G180606,16G1806,5,180606,Espinho
+16G180607,16G1806,5,180607,Fornos de Maceira Dão
+16G180608,16G1806,5,180608,Freixiosa
+16G180614,16G1806,5,180614,Quintela de Azurara
+16G180616,16G1806,5,180616,São João da Fresta
+16G180619,16G1806,5,180619,"União das freguesias de Mangualde, Mesquitela e Cunha Alta"
+16G180620,16G1806,5,180620,União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato
+16G180621,16G1806,5,180621,União das freguesias de Santiago de Cassurrães e Póvoa de Cervães
+16G180622,16G1806,5,180622,"União das freguesias de Tavares (Chãs, Várzea e Travanca)"
+16G180901,16G1809,5,180901,Canas de Senhorim
+16G180908,16G1809,5,180908,Lapa do Lobo
+16G180903,16G1809,5,180903,Nelas
+16G180905,16G1809,5,180905,Senhorim
+16G180910,16G1809,5,180910,União das freguesias de Carvalhal Redondo e Aguieira
+16G180911,16G1809,5,180911,União das freguesias de Santar e Moreira
+16G180906,16G1809,5,180906,Vilar Seco
+16G181002,16G1810,5,181002,Arcozelo das Maias
+16G181005,16G1810,5,181005,Pinheiro
+16G181007,16G1810,5,181007,Ribeiradio
+16G181008,16G1810,5,181008,São João da Serra
+16G181009,16G1810,5,181009,São Vicente de Lafões
+16G181013,16G1810,5,181013,União das freguesias de Arca e Varzielas
+16G181014,16G1810,5,181014,União das freguesias de Destriz e Reigoso
+16G181015,16G1810,5,181015,"União das freguesias de Oliveira de Frades, Souto de Lafões e Sejães"
+16G181102,16G1811,5,181102,Castelo de Penalva
+16G181103,16G1811,5,181103,Esmolfe
+16G181104,16G1811,5,181104,Germil
+16G181105,16G1811,5,181105,Ínsua
+16G181106,16G1811,5,181106,Lusinde
+16G181109,16G1811,5,181109,Pindo
+16G181110,16G1811,5,181110,Real
+16G181111,16G1811,5,181111,Sezures
+16G181112,16G1811,5,181112,Trancozelos
+16G181114,16G1811,5,181114,União das freguesias de Antas e Matela
+16G181115,16G1811,5,181115,União das freguesias de Vila Cova do Covelo/Mareco
+16G181403,16G1814,5,181403,Pinheiro de Ázere
+16G181405,16G1814,5,181405,São Joaninho
+16G181406,16G1814,5,181406,São João de Areias
+16G181410,16G1814,5,181410,União das freguesias de Ovoa e Vimieiro
+16G181411,16G1814,5,181411,União das freguesias de Santa Comba Dão e Couto do Mosteiro
+16G181412,16G1814,5,181412,União das freguesias de Treixedo e Nagozela
+16G181602,16G1816,5,181602,Bordonhos
+16G181606,16G1816,5,181606,Figueiredo de Alva
+16G181607,16G1816,5,181607,Manhouce
+16G181608,16G1816,5,181608,Pindelo dos Milagres
+16G181609,16G1816,5,181609,Pinho
+16G181612,16G1816,5,181612,São Félix
+16G181615,16G1816,5,181615,Serrazes
+16G181616,16G1816,5,181616,Sul
+16G181620,16G1816,5,181620,União das freguesias de Carvalhais e Candal
+16G181621,16G1816,5,181621,União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões
+16G181622,16G1816,5,181622,União das freguesias de São Martinho das Moitas e Covas do Rio
+16G181623,16G1816,5,181623,"União das freguesias de São Pedro do Sul, Várzea e Baiões"
+16G181617,16G1816,5,181617,Valadares
+16G181619,16G1816,5,181619,Vila Maior
+16G181702,16G1817,5,181702,Avelal
+16G181704,16G1817,5,181704,Ferreira de Aves
+16G181706,16G1817,5,181706,Mioma
+16G181707,16G1817,5,181707,Rio de Moinhos
+16G181709,16G1817,5,181709,São Miguel de Vila Boa
+16G181710,16G1817,5,181710,Sátão
+16G181711,16G1817,5,181711,Silvã de Cima
+16G181713,16G1817,5,181713,União das freguesias de Águas Boas e Forles
+16G181714,16G1817,5,181714,"União das freguesias de Romãs, Decermilo e Vila Longa"
+16G182102,16G1821,5,182102,Campo de Besteiros
+16G182103,16G1821,5,182103,Canas de Santa Maria
+16G182105,16G1821,5,182105,Castelões
+16G182106,16G1821,5,182106,Dardavaz
+16G182107,16G1821,5,182107,Ferreirós do Dão
+16G182108,16G1821,5,182108,Guardão
+16G182109,16G1821,5,182109,Lajeosa do Dão
+16G182110,16G1821,5,182110,Lobão da Beira
+16G182111,16G1821,5,182111,Molelos
+16G182116,16G1821,5,182116,Parada de Gonta
+16G182118,16G1821,5,182118,Santiago de Besteiros
+16G182122,16G1821,5,182122,Tonda
+16G182127,16G1821,5,182127,União das freguesias de Barreiro de Besteiros e Tourigo
+16G182128,16G1821,5,182128,União das freguesias de Caparrosa e Silvares
+16G182129,16G1821,5,182129,União das freguesias de Mouraz e Vila Nova da Rainha
+16G182130,16G1821,5,182130,União das freguesias de São João do Monte e Mosteirinho
+16G182131,16G1821,5,182131,União das freguesias de São Miguel do Outeiro e Sabugosa
+16G182132,16G1821,5,182132,União das freguesias de Tondela e Nandufe
+16G182133,16G1821,5,182133,União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas
+16G182203,16G1822,5,182203,Pendilhe
+16G182204,16G1822,5,182204,Queiriga
+16G182205,16G1822,5,182205,Touro
+16G182208,16G1822,5,182208,"União das freguesias de Vila Nova de Paiva, Alhais e Fráguas"
+16G182206,16G1822,5,182206,Vila Cova à Coelheira
+16G182301,16G1823,5,182301,Abraveses
+16G182304,16G1823,5,182304,Bodiosa
+16G182305,16G1823,5,182305,Calde
+16G182306,16G1823,5,182306,Campo
+16G182307,16G1823,5,182307,Cavernães
+16G182310,16G1823,5,182310,Cota
+16G182315,16G1823,5,182315,Fragosela
+16G182316,16G1823,5,182316,Lordosa
+16G182318,16G1823,5,182318,Mundão
+16G182319,16G1823,5,182319,Orgens
+16G182320,16G1823,5,182320,Povolide
+16G182321,16G1823,5,182321,Ranhados
+16G182322,16G1823,5,182322,Ribafeita
+16G182323,16G1823,5,182323,Rio de Loba
+16G182325,16G1823,5,182325,Santos Evos
+16G182327,16G1823,5,182327,São João de Lourosa
+16G182329,16G1823,5,182329,São Pedro de France
+16G182317,16G1823,5,182317,Silgueiros
+16G182335,16G1823,5,182335,União das freguesias de Barreiros e Cepões
+16G182336,16G1823,5,182336,"União das freguesias de Boa Aldeia, Farminhão e Torredeita"
+16G182337,16G1823,5,182337,União das freguesias de Couto de Baixo e Couto de Cima
+16G182338,16G1823,5,182338,União das freguesias de Faíl e Vila Chã de Sá
+16G182339,16G1823,5,182339,União das freguesias de Repeses e São Salvador
+16G182340,16G1823,5,182340,União das freguesias de São Cipriano e Vil de Souto
+16G182341,16G1823,5,182341,União das freguesias de Viseu
+16G182401,16G1824,5,182401,Alcofra
+16G182403,16G1824,5,182403,Campia
+16G182407,16G1824,5,182407,Fornelo do Monte
+16G182409,16G1824,5,182409,Queirã
+16G182410,16G1824,5,182410,São Miguel do Mato
+16G182413,16G1824,5,182413,União das freguesias de Cambra e Carvalhal de Vermilhas
+16G182414,16G1824,5,182414,União das freguesias de Fataunços e Figueiredo das Donas
+16G182415,16G1824,5,182415,União das freguesias de Vouzela e Paços de Vilharigues
+16G182411,16G1824,5,182411,Ventosa
+16H050201,16H0502,5,050201,Alcains
+16H050202,16H0502,5,050202,Almaceda
+16H050203,16H0502,5,050203,Benquerenças
+16H050205,16H0502,5,050205,Castelo Branco
+16H050211,16H0502,5,050211,Lardosa
+16H050212,16H0502,5,050212,Louriçal do Campo
+16H050214,16H0502,5,050214,Malpica do Tejo
+16H050216,16H0502,5,050216,Monforte da Beira
+16H050220,16H0502,5,050220,Salgueiro do Campo
+16H050221,16H0502,5,050221,Santo André das Tojeiras
+16H050222,16H0502,5,050222,São Vicente da Beira
+16H050223,16H0502,5,050223,Sarzedas
+16H050225,16H0502,5,050225,Tinalhas
+16H050226,16H0502,5,050226,União das freguesias de Cebolais de Cima e Retaxo
+16H050227,16H0502,5,050227,União das freguesias de Escalos de Baixo e Mata
+16H050228,16H0502,5,050228,União das freguesias de Escalos de Cima e Lousa
+16H050229,16H0502,5,050229,União das freguesias de Freixial e Juncal do Campo
+16H050230,16H0502,5,050230,União das freguesias de Ninho do Açor e Sobral do Campo
+16H050231,16H0502,5,050231,União das freguesias de Póvoa de Rio de Moinhos e Cafede
+16H050502,16H0505,5,050502,Aldeia de Santa Margarida
+16H050505,16H0505,5,050505,Ladoeiro
+16H050506,16H0505,5,050506,Medelim
+16H050509,16H0505,5,050509,Oledo
+16H050510,16H0505,5,050510,Penha Garcia
+16H050511,16H0505,5,050511,Proença-a-Velha
+16H050512,16H0505,5,050512,Rosmaninhal
+16H050514,16H0505,5,050514,São Miguel de Acha
+16H050516,16H0505,5,050516,Toulões
+16H050518,16H0505,5,050518,União das freguesias de Idanha-a-Nova e Alcafozes
+16H050519,16H0505,5,050519,União das freguesias de Monfortinho e Salvaterra do Extremo
+16H050520,16H0505,5,050520,União das freguesias de Monsanto e Idanha-a-Velha
+16H050521,16H0505,5,050521,União das freguesias de Zebreira e Segura
+16H050601,16H0506,5,050601,Álvaro
+16H050603,16H0506,5,050603,Cambas
+16H050613,16H0506,5,050613,Estreito-Vilar Barroco
+16H050605,16H0506,5,050605,Isna
+16H050606,16H0506,5,050606,Madeirã
+16H050607,16H0506,5,050607,Mosteiro
+16H050614,16H0506,5,050614,Oleiros-Amieira
+16H050609,16H0506,5,050609,Orvalho
+16H050610,16H0506,5,050610,Sarnadas de São Simão
+16H050611,16H0506,5,050611,Sobral
+16H050704,16H0507,5,050704,Aranhas
+16H050706,16H0507,5,050706,Benquerença
+16H050707,16H0507,5,050707,Meimão
+16H050708,16H0507,5,050708,Meimoa
+16H050710,16H0507,5,050710,Penamacor
+16H050711,16H0507,5,050711,Salvador
+16H050713,16H0507,5,050713,"União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires"
+16H050714,16H0507,5,050714,União das freguesias de Pedrógão de São Pedro e Bemposta
+16H050712,16H0507,5,050712,Vale da Senhora da Póvoa
+16H050802,16H0508,5,050802,Montes da Senhora
+16H050805,16H0508,5,050805,São Pedro do Esteval
+16H050807,16H0508,5,050807,União das freguesias de Proença-a-Nova e Peral
+16H050808,16H0508,5,050808,União das freguesias de Sobreira Formosa e Alvito da Beira
+16H051101,16H0511,5,051101,Fratel
+16H051102,16H0511,5,051102,Perais
+16H051103,16H0511,5,051103,Sarnadas de Ródão
+16H051104,16H0511,5,051104,Vila Velha de Ródão
+16I140104,16I1401,5,140104,Bemposta
+16I140119,16I1401,5,140119,Carvalhal
+16I140118,16I1401,5,140118,Fontes
+16I140105,16I1401,5,140105,Martinchel
+16I140106,16I1401,5,140106,Mouriscas
+16I140107,16I1401,5,140107,Pego
+16I140108,16I1401,5,140108,Rio de Moinhos
+16I140115,16I1401,5,140115,Tramagal
+16I140120,16I1401,5,140120,União das freguesias de Abrantes (São Vicente e São João) e Alferrarede
+16I140121,16I1401,5,140121,União das freguesias de Aldeia do Mato e Souto
+16I140122,16I1401,5,140122,União das freguesias de Alvega e Concavada
+16I140123,16I1401,5,140123,União das freguesias de São Facundo e Vale das Mós
+16I140124,16I1401,5,140124,União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo
+16I140202,16I1402,5,140202,Bugalhos
+16I140206,16I1402,5,140206,Minde
+16I140207,16I1402,5,140207,Moitas Venda
+16I140208,16I1402,5,140208,Monsanto
+16I140209,16I1402,5,140209,Serra de Santo António
+16I140211,16I1402,5,140211,União das freguesias de Alcanena e Vila Moreira
+16I140212,16I1402,5,140212,"União das freguesias de Malhou, Louriceira e Espinheiro"
+16I140801,16I1408,5,140801,Constância
+16I140802,16I1408,5,140802,Montalvo
+16I140803,16I1408,5,140803,Santa Margarida da Coutada
+16I141002,16I1410,5,141002,Nossa Senhora de Fátima
+16I141001,16I1410,5,141001,São João Baptista
+16I141101,16I1411,5,141101,Águas Belas
+16I141103,16I1411,5,141103,Beco
+16I141104,16I1411,5,141104,Chãos
+16I141106,16I1411,5,141106,Ferreira do Zêzere
+16I141107,16I1411,5,141107,Igreja Nova do Sobral
+16I141110,16I1411,5,141110,Nossa Senhora do Pranto
+16I141111,16I1411,5,141111,União das freguesias de Areias e Pias
+16I141302,16I1413,5,141302,Amêndoa
+16I141303,16I1413,5,141303,Cardigos
+16I141304,16I1413,5,141304,Carvoeiro
+16I141305,16I1413,5,141305,Envendos
+16I141307,16I1413,5,141307,Ortiga
+16I141309,16I1413,5,141309,"União das freguesias de Mação, Penhascoso e Aboboreira"
+16I142101,16I1421,5,142101,Alburitel
+16I142102,16I1421,5,142102,Atouguia
+16I142104,16I1421,5,142104,Caxarias
+16I142105,16I1421,5,142105,Espite
+16I142106,16I1421,5,142106,Fátima
+16I142115,16I1421,5,142115,Nossa Senhora da Piedade
+16I142111,16I1421,5,142111,Nossa Senhora das Misericórdias
+16I142113,16I1421,5,142113,Seiça
+16I142119,16I1421,5,142119,"União das freguesias de Freixianda, Ribeira do Fárrio e Formigais"
+16I142120,16I1421,5,142120,União das freguesias de Gondemaria e Olival
+16I142121,16I1421,5,142121,União das freguesias de Matas e Cercal
+16I142122,16I1421,5,142122,União das freguesias de Rio de Couros e Casal dos Bernardos
+16I142114,16I1421,5,142114,Urqueira
+16I141701,16I1417,5,141701,Alcaravela
+16I141702,16I1417,5,141702,Santiago de Montalegre
+16I141703,16I1417,5,141703,Sardoal
+16I141704,16I1417,5,141704,Valhascos
+16I050901,16I0509,5,050901,Cabeçudo
+16I050902,16I0509,5,050902,Carvalhal
+16I050903,16I0509,5,050903,Castelo
+16I050911,16I0509,5,050911,Pedrógão Pequeno
+16I050912,16I0509,5,050912,Sertã
+16I050913,16I0509,5,050913,Troviscal
+16I050915,16I0509,5,050915,"União das freguesias de Cernache do Bonjardim, Nesperal e Palhais"
+16I050916,16I0509,5,050916,União das freguesias de Cumeada e Marmeleiro
+16I050917,16I0509,5,050917,União das freguesias de Ermida e Figueiredo
+16I050914,16I0509,5,050914,Várzea dos Cavaleiros
+16I141802,16I1418,5,141802,Asseiceira
+16I141804,16I1418,5,141804,Carregueiros
+16I141808,16I1418,5,141808,Olalhas
+16I141809,16I1418,5,141809,Paialvo
+16I141814,16I1418,5,141814,Sabacheira
+16I141813,16I1418,5,141813,São Pedro de Tomar
+16I141817,16I1418,5,141817,União das freguesias de Além da Ribeira e Pedreira
+16I141818,16I1418,5,141818,União das freguesias de Casais e Alviobeira
+16I141819,16I1418,5,141819,União das freguesias de Madalena e Beselga
+16I141820,16I1418,5,141820,União das freguesias de Serra e Junceira
+16I141821,16I1418,5,141821,União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais
+16I141902,16I1419,5,141902,Assentiz
+16I141904,16I1419,5,141904,Chancelaria
+16I141917,16I1419,5,141917,Meia Via
+16I141909,16I1419,5,141909,Pedrógão
+16I141910,16I1419,5,141910,Riachos
+16I141918,16I1419,5,141918,"União das freguesias de Brogueira, Parceiros de Igreja e Alcorochel"
+16I141919,16I1419,5,141919,União das freguesias de Olaia e Paço
+16I141920,16I1419,5,141920,"União das freguesias de Torres Novas (Santa Maria, Salvador e Santiago)"
+16I141921,16I1419,5,141921,"União das freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca"
+16I141916,16I1419,5,141916,Zibreira
+16I051001,16I0510,5,051001,Fundada
+16I051002,16I0510,5,051002,São João do Peso
+16I051003,16I0510,5,051003,Vila de Rei
+16I142001,16I1420,5,142001,Atalaia
+16I142002,16I1420,5,142002,Praia do Ribatejo
+16I142003,16I1420,5,142003,Tancos
+16I142006,16I1420,5,142006,Vila Nova da Barquinha
+16J090203,16J0902,5,090203,Almeida
+16J090207,16J0902,5,090207,Castelo Bom
+16J090209,16J0902,5,090209,Freineda
+16J090210,16J0902,5,090210,Freixo
+16J090213,16J0902,5,090213,Malhada Sorda
+16J090219,16J0902,5,090219,Nave de Haver
+16J090224,16J0902,5,090224,São Pedro de Rio Seco
+16J090230,16J0902,5,090230,"União das freguesias de Amoreira, Parada e Cabreira"
+16J090231,16J0902,5,090231,"União das freguesias de Azinhal, Peva e Valverde"
+16J090232,16J0902,5,090232,"União das freguesias de Castelo Mendo, Ade, Monteperobolso e Mesquitela"
+16J090233,16J0902,5,090233,União das freguesias de Junça e Naves
+16J090234,16J0902,5,090234,"União das freguesias de Leomil, Mido, Senouras e Aldeia Nova"
+16J090235,16J0902,5,090235,União das freguesias de Malpartida e Vale de Coelha
+16J090236,16J0902,5,090236,União das freguesias de Miuzela e Porto de Ovelha
+16J090227,16J0902,5,090227,Vale da Mula
+16J090229,16J0902,5,090229,Vilar Formoso
+16J050102,16J0501,5,050102,Caria
+16J050104,16J0501,5,050104,Inguias
+16J050105,16J0501,5,050105,Maçainhas
+16J050106,16J0501,5,050106,União das freguesias de Belmonte e Colmeal da Torre
+16J090302,16J0903,5,090302,Baraçal
+16J090304,16J0903,5,090304,Carrapichana
+16J090322,16J0903,5,090322,Casas do Soeiro
+16J090306,16J0903,5,090306,Forno Telheiro
+16J090307,16J0903,5,090307,Lajeosa do Mondego
+16J090308,16J0903,5,090308,Linhares
+16J090309,16J0903,5,090309,Maçal do Chão
+16J090310,16J0903,5,090310,Mesquitela
+16J090311,16J0903,5,090311,Minhocal
+16J090312,16J0903,5,090312,Prados
+16J090314,16J0903,5,090314,Ratoeira
+16J090323,16J0903,5,090323,União das freguesias de Açores e Velosa
+16J090324,16J0903,5,090324,União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego
+16J090325,16J0903,5,090325,"União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais"
+16J090326,16J0903,5,090326,União das freguesias de Rapa e Cadafaz
+16J090318,16J0903,5,090318,Vale de Azares
+16J050302,16J0503,5,050302,Aldeia de São Francisco de Assis
+16J050305,16J0503,5,050305,Boidobra
+16J050308,16J0503,5,050308,Cortes do Meio
+16J050309,16J0503,5,050309,Dominguizo
+16J050310,16J0503,5,050310,Erada
+16J050311,16J0503,5,050311,Ferro
+16J050312,16J0503,5,050312,Orjais
+16J050314,16J0503,5,050314,Paul
+16J050315,16J0503,5,050315,Peraboa
+16J050318,16J0503,5,050318,São Jorge da Beira
+16J050322,16J0503,5,050322,Sobral de São Miguel
+16J050324,16J0503,5,050324,Tortosendo
+16J050325,16J0503,5,050325,Unhais da Serra
+16J050332,16J0503,5,050332,União das freguesias de Barco e Coutada
+16J050333,16J0503,5,050333,União das freguesias de Cantar-Galo e Vila do Carvalho
+16J050334,16J0503,5,050334,União das freguesias de Casegas e Ourondo
+16J050335,16J0503,5,050335,União das freguesias de Covilhã e Canhoso
+16J050336,16J0503,5,050336,União das freguesias de Peso e Vales do Rio
+16J050337,16J0503,5,050337,União das freguesias de Teixoso e Sarzedo
+16J050338,16J0503,5,050338,União das freguesias de Vale Formoso e Aldeia do Souto
+16J050327,16J0503,5,050327,Verdelhos
+16J090403,16J0904,5,090403,Castelo Rodrigo
+16J090406,16J0904,5,090406,Escalhão
+16J090408,16J0904,5,090408,Figueira de Castelo Rodrigo
+16J090410,16J0904,5,090410,Mata de Lobos
+16J090418,16J0904,5,090418,"União das freguesias de Algodres, Vale de Afonsinho e Vilar de Amargo"
+16J090419,16J0904,5,090419,União das freguesias de Almofala e Escarigo
+16J090420,16J0904,5,090420,União das freguesias de Cinco Vilas e Reigada
+16J090421,16J0904,5,090421,"União das freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia"
+16J090422,16J0904,5,090422,União das freguesias do Colmeal e Vilar Torpim
+16J090415,16J0904,5,090415,Vermiosa
+16J090501,16J0905,5,090501,Algodres
+16J090502,16J0905,5,090502,Casal Vasco
+16J090504,16J0905,5,090504,Figueiró da Granja
+16J090505,16J0905,5,090505,Fornos de Algodres
+16J090507,16J0905,5,090507,Infias
+16J090509,16J0905,5,090509,Maceira
+16J090510,16J0905,5,090510,Matança
+16J090511,16J0905,5,090511,Muxagata
+16J090512,16J0905,5,090512,Queiriz
+16J090517,16J0905,5,090517,União das freguesias de Cortiçô e Vila Chã
+16J090518,16J0905,5,090518,"União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão"
+16J090519,16J0905,5,090519,União das freguesias de Sobral Pichorro e Fuinhas
+16J050401,16J0504,5,050401,Alcaide
+16J050402,16J0504,5,050402,Alcaria
+16J050403,16J0504,5,050403,Alcongosta
+16J050406,16J0504,5,050406,Alpedrinha
+16J050408,16J0504,5,050408,Barroca
+16J050410,16J0504,5,050410,Bogas de Cima
+16J050411,16J0504,5,050411,Capinha
+16J050412,16J0504,5,050412,Castelejo
+16J050413,16J0504,5,050413,Castelo Novo
+16J050431,16J0504,5,050431,Enxames
+16J050416,16J0504,5,050416,Fatela
+16J050419,16J0504,5,050419,Lavacolhos
+16J050420,16J0504,5,050420,Orca
+16J050421,16J0504,5,050421,Pêro Viseu
+16J050424,16J0504,5,050424,Silvares
+16J050425,16J0504,5,050425,Soalheira
+16J050426,16J0504,5,050426,Souto da Casa
+16J050427,16J0504,5,050427,Telhado
+16J050432,16J0504,5,050432,Três Povos
+16J050434,16J0504,5,050434,"União das freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo"
+16J050433,16J0504,5,050433,União das freguesias de Janeiro de Cima e Bogas de Baixo
+16J050435,16J0504,5,050435,União das freguesias de Póvoa de Atalaia e Atalaia do Campo
+16J050436,16J0504,5,050436,União das freguesias de Vale de Prazeres e Mata da Rainha
+16J090602,16J0906,5,090602,Arcozelo
+16J090603,16J0906,5,090603,Cativelos
+16J090605,16J0906,5,090605,Folgosinho
+16J090625,16J0906,5,090625,Gouveia
+16J090612,16J0906,5,090612,Nespereira
+16J090613,16J0906,5,090613,Paços da Serra
+16J090614,16J0906,5,090614,Ribamondego
+16J090617,16J0906,5,090617,São Paio
+16J090623,16J0906,5,090623,União das freguesias de Aldeias e Mangualde da Serra
+16J090624,16J0906,5,090624,União das freguesias de Figueiró da Serra e Freixo da Serra
+16J090626,16J0906,5,090626,União das freguesias de Melo e Nabais
+16J090627,16J0906,5,090627,União das freguesias de Moimenta da Serra e Vinhó
+16J090628,16J0906,5,090628,União das freguesias de Rio Torto e Lagarinhos
+16J090619,16J0906,5,090619,Vila Cortês da Serra
+16J090620,16J0906,5,090620,Vila Franca da Serra
+16J090621,16J0906,5,090621,Vila Nova de Tazem
+16J090766,16J0907,5,090766,Adão
+16J090703,16J0907,5,090703,Aldeia do Bispo
+16J090704,16J0907,5,090704,Aldeia Viçosa
+16J090705,16J0907,5,090705,Alvendre
+16J090706,16J0907,5,090706,Arrifana
+16J090708,16J0907,5,090708,Avelãs da Ribeira
+16J090709,16J0907,5,090709,Benespera
+16J090711,16J0907,5,090711,Casal de Cinza
+16J090712,16J0907,5,090712,Castanheira
+16J090713,16J0907,5,090713,Cavadoude
+16J090714,16J0907,5,090714,Codesseiro
+16J090716,16J0907,5,090716,Faia
+16J090717,16J0907,5,090717,Famalicão
+16J090718,16J0907,5,090718,Fernão Joanes
+16J090757,16J0907,5,090757,Gonçalo
+16J090721,16J0907,5,090721,Gonçalo Bocas
+16J090758,16J0907,5,090758,Guarda
+16J090759,16J0907,5,090759,Jarmelo São Miguel
+16J090760,16J0907,5,090760,Jarmelo São Pedro
+16J090722,16J0907,5,090722,João Antão
+16J090723,16J0907,5,090723,Maçainhas
+16J090724,16J0907,5,090724,Marmeleiro
+16J090725,16J0907,5,090725,Meios
+16J090728,16J0907,5,090728,Panoias de Cima
+16J090729,16J0907,5,090729,Pega
+16J090730,16J0907,5,090730,Pêra do Moço
+16J090732,16J0907,5,090732,Porto da Carne
+16J090734,16J0907,5,090734,Ramela
+16J090738,16J0907,5,090738,Santana da Azinha
+16J090744,16J0907,5,090744,Sobral da Serra
+16J090761,16J0907,5,090761,União de freguesias de Avelãs de Ambom e Rocamondo
+16J090762,16J0907,5,090762,União de freguesias de Corujeira e Trinta
+16J090763,16J0907,5,090763,"União de freguesias de Mizarela, Pêro Soares e Vila Soeiro"
+16J090764,16J0907,5,090764,União de freguesias de Pousade e Albardo
+16J090765,16J0907,5,090765,União de freguesias de Rochoso e Monte Margarida
+16J090746,16J0907,5,090746,Vale de Estrela
+16J090747,16J0907,5,090747,Valhelhas
+16J090748,16J0907,5,090748,Vela
+16J090749,16J0907,5,090749,Videmonte
+16J090750,16J0907,5,090750,Vila Cortês do Mondego
+16J090751,16J0907,5,090751,Vila Fernando
+16J090752,16J0907,5,090752,Vila Franca do Deão
+16J090753,16J0907,5,090753,Vila Garcia
+16J090802,16J0908,5,090802,Manteigas (Santa Maria)
+16J090803,16J0908,5,090803,Manteigas (São Pedro)
+16J090801,16J0908,5,090801,Sameiro
+16J090804,16J0908,5,090804,Vale de Amoreira
+16J090901,16J0909,5,090901,Aveloso
+16J090902,16J0909,5,090902,Barreira
+16J090905,16J0909,5,090905,Coriscada
+16J090907,16J0909,5,090907,Longroiva
+16J090908,16J0909,5,090908,Marialva
+16J090912,16J0909,5,090912,Poço do Canto
+16J090914,16J0909,5,090914,Rabaçal
+16J090915,16J0909,5,090915,Ranhados
+16J090917,16J0909,5,090917,"União das freguesias de Mêda, Outeiro de Gatos e Fonte Longa"
+16J090918,16J0909,5,090918,União das freguesias de Prova e Casteição
+16J090919,16J0909,5,090919,"União das freguesias de Vale Flor, Carvalhal e Pai Penela"
+16J091028,16J0910,5,091028,Agregação das freguesias Sul de Pinhel
+16J091032,16J0910,5,091032,Alto do Palurdo
+16J091029,16J0910,5,091029,Alverca da Beira/Bouça Cova
+16J091009,16J0910,5,091009,Ervedosa
+16J091010,16J0910,5,091010,Freixedas
+16J091012,16J0910,5,091012,Lamegal
+16J091013,16J0910,5,091013,Lameiras
+16J091014,16J0910,5,091014,Manigoto
+16J091015,16J0910,5,091015,Pala
+16J091017,16J0910,5,091017,Pinhel
+16J091018,16J0910,5,091018,Pínzio
+16J091024,16J0910,5,091024,Souro Pires
+16J091030,16J0910,5,091030,Terras de Massueime
+16J091035,16J0910,5,091035,União das freguesias de Atalaia e Safurdão
+16J091031,16J0910,5,091031,Valbom/Bogalhal
+16J091033,16J0910,5,091033,Vale do Côa
+16J091034,16J0910,5,091034,Vale do Massueime
+16J091027,16J0910,5,091027,Vascoveiro
+16J091101,16J0911,5,091101,Águas Belas
+16J091103,16J0911,5,091103,Aldeia da Ponte
+16J091102,16J0911,5,091102,Aldeia do Bispo
+16J091106,16J0911,5,091106,Aldeia Velha
+16J091107,16J0911,5,091107,Alfaiates
+16J091109,16J0911,5,091109,Baraçal
+16J091110,16J0911,5,091110,Bendada
+16J091111,16J0911,5,091111,Bismula
+16J091112,16J0911,5,091112,Casteleiro
+16J091113,16J0911,5,091113,Cerdeira
+16J091114,16J0911,5,091114,Fóios
+16J091118,16J0911,5,091118,Malcata
+16J091120,16J0911,5,091120,Nave
+16J091123,16J0911,5,091123,Quadrazais
+16J091124,16J0911,5,091124,Quintas de São Bartolomeu
+16J091125,16J0911,5,091125,Rapoula do Côa
+16J091126,16J0911,5,091126,Rebolosa
+16J091127,16J0911,5,091127,Rendo
+16J091133,16J0911,5,091133,Sortelha
+16J091134,16J0911,5,091134,Souto
+16J091141,16J0911,5,091141,"União das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos"
+16J091142,16J0911,5,091142,União das freguesias de Lajeosa e Forcalhos
+16J091143,16J0911,5,091143,"União das freguesias de Pousafoles do Bispo, Pena Lobo e Lomba"
+16J091144,16J0911,5,091144,"União das freguesias de Ruvina, Ruivós e Vale das Éguas"
+16J091146,16J0911,5,091146,União das freguesias de Santo Estêvão e Moita
+16J091147,16J0911,5,091147,União das freguesias de Seixo do Côa e Vale Longo
+16J091145,16J0911,5,091145,União das freguesias do Sabugal e Aldeia de Santo António
+16J091136,16J0911,5,091136,Vale de Espinho
+16J091138,16J0911,5,091138,Vila Boa
+16J091139,16J0911,5,091139,Vila do Touro
+16J091201,16J0912,5,091201,Alvoco da Serra
+16J091205,16J0912,5,091205,Girabolhos
+16J091207,16J0912,5,091207,Loriga
+16J091208,16J0912,5,091208,Paranhos
+16J091209,16J0912,5,091209,Pinhanços
+16J091210,16J0912,5,091210,Sabugueiro
+16J091212,16J0912,5,091212,Sandomil
+16J091213,16J0912,5,091213,Santa Comba
+16J091216,16J0912,5,091216,Santiago
+16J091219,16J0912,5,091219,Sazes da Beira
+16J091221,16J0912,5,091221,Teixeira
+16J091224,16J0912,5,091224,Travancinha
+16J091230,16J0912,5,091230,União das freguesias de Carragozela e Várzea de Meruge
+16J091231,16J0912,5,091231,União das freguesias de Sameice e Santa Eulália
+16J091232,16J0912,5,091232,União das freguesias de Santa Marinha e São Martinho
+16J091233,16J0912,5,091233,"União das freguesias de Seia, São Romão e Lapa dos Dinheiros"
+16J091234,16J0912,5,091234,União das freguesias de Torrozelo e Folhadosa
+16J091235,16J0912,5,091235,União das freguesias de Tourais e Lajes
+16J091236,16J0912,5,091236,União das freguesias de Vide e Cabeça
+16J091225,16J0912,5,091225,Valezim
+16J091228,16J0912,5,091228,Vila Cova à Coelheira
+16J091301,16J0913,5,091301,Aldeia Nova
+16J091303,16J0913,5,091303,Castanheira
+16J091304,16J0913,5,091304,Cogula
+16J091305,16J0913,5,091305,Cótimos
+16J091307,16J0913,5,091307,Fiães
+16J091309,16J0913,5,091309,Granja
+16J091310,16J0913,5,091310,Guilheiro
+16J091311,16J0913,5,091311,Moimentinha
+16J091312,16J0913,5,091312,Moreira de Rei
+16J091313,16J0913,5,091313,Palhais
+16J091314,16J0913,5,091314,Póvoa do Concelho
+16J091315,16J0913,5,091315,Reboleiro
+16J091316,16J0913,5,091316,Rio de Mel
+16J091321,16J0913,5,091321,Tamanhos
+16J091330,16J0913,5,091330,União das freguesias de Freches e Torres
+16J091331,16J0913,5,091331,"União das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho"
+16J091332,16J0913,5,091332,União das freguesias de Trancoso (São Pedro e Santa Maria) e Souto Maior
+16J091333,16J0913,5,091333,União das freguesias de Vale do Seixo e Vila Garcia
+16J091334,16J0913,5,091334,União das freguesias de Vila Franca das Naves e Feital
+16J091335,16J0913,5,091335,União das freguesias de Vilares e Carnicães
+16J091325,16J0913,5,091325,Valdujo
+170150201,1701502,5,150201,Alcochete
+170150202,1701502,5,150202,Samouco
+170150203,1701502,5,150203,São Francisco
+170150303,1701503,5,150303,Costa da Caparica
+170150312,1701503,5,150312,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas"
+170150313,1701503,5,150313,União das freguesias de Caparica e Trafaria
+170150314,1701503,5,150314,União das freguesias de Charneca de Caparica e Sobreda
+170150315,1701503,5,150315,União das freguesias de Laranjeiro e Feijó
+170111513,1701115,5,111513,Águas Livres
+170111512,1701115,5,111512,Alfragide
+170111514,1701115,5,111514,Encosta do Sol
+170111515,1701115,5,111515,Falagueira-Venda Nova
+170111516,1701115,5,111516,Mina de Água
+170111517,1701115,5,111517,Venteira
+170150407,1701504,5,150407,Santo António da Charneca
+170150409,1701504,5,150409,"União das freguesias de Alto do Seixalinho, Santo André e Verderena"
+170150410,1701504,5,150410,União das freguesias de Barreiro e Lavradio
+170150411,1701504,5,150411,União das freguesias de Palhais e Coina
+170110501,1701105,5,110501,Alcabideche
+170110506,1701105,5,110506,São Domingos de Rana
+170110507,1701105,5,110507,União das freguesias de Carcavelos e Parede
+170110508,1701105,5,110508,União das freguesias de Cascais e Estoril
+170110601,1701106,5,110601,Ajuda
+170110602,1701106,5,110602,Alcântara
+170110654,1701106,5,110654,Alvalade
+170110655,1701106,5,110655,Areeiro
+170110656,1701106,5,110656,Arroios
+170110657,1701106,5,110657,Avenidas Novas
+170110607,1701106,5,110607,Beato
+170110658,1701106,5,110658,Belém
+170110608,1701106,5,110608,Benfica
+170110659,1701106,5,110659,Campo de Ourique
+170110610,1701106,5,110610,Campolide
+170110611,1701106,5,110611,Carnide
+170110660,1701106,5,110660,Estrela
+170110618,1701106,5,110618,Lumiar
+170110621,1701106,5,110621,Marvila
+170110661,1701106,5,110661,Misericórdia
+170110633,1701106,5,110633,Olivais
+170110662,1701106,5,110662,Parque das Nações
+170110663,1701106,5,110663,Penha de França
+170110664,1701106,5,110664,Santa Clara
+170110665,1701106,5,110665,Santa Maria Maior
+170110666,1701106,5,110666,Santo António
+170110639,1701106,5,110639,São Domingos de Benfica
+170110667,1701106,5,110667,São Vicente
+170110702,1701107,5,110702,Bucelas
+170110705,1701107,5,110705,Fanhões
+170110707,1701107,5,110707,Loures
+170110708,1701107,5,110708,Lousa
+170110731,1701107,5,110731,"União das freguesias de Camarate, Unhos e Apelação"
+170110726,1701107,5,110726,União das freguesias de Moscavide e Portela
+170110727,1701107,5,110727,União das freguesias de Sacavém e Prior Velho
+170110728,1701107,5,110728,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela"
+170110729,1701107,5,110729,União das freguesias de Santo Antão e São Julião do Tojal
+170110730,1701107,5,110730,União das freguesias de Santo António dos Cavaleiros e Frielas
+170110902,1701109,5,110902,Carvoeira
+170110904,1701109,5,110904,Encarnação
+170110906,1701109,5,110906,Ericeira
+170110909,1701109,5,110909,Mafra
+170110911,1701109,5,110911,Milharado
+170110913,1701109,5,110913,Santo Isidoro
+170110918,1701109,5,110918,União das freguesias de Azueira e Sobral da Abelheira
+170110919,1701109,5,110919,"União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário"
+170110920,1701109,5,110920,União das freguesias de Igreja Nova e Cheleiros
+170110921,1701109,5,110921,União das freguesias de Malveira e São Miguel de Alcainça
+170110922,1701109,5,110922,União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés
+170150601,1701506,5,150601,Alhos Vedros
+170150603,1701506,5,150603,Moita
+170150607,1701506,5,150607,União das freguesias de Baixa da Banheira e Vale da Amoreira
+170150608,1701506,5,150608,União das freguesias de Gaio-Rosário e Sarilhos Pequenos
+170150701,1701507,5,150701,Canha
+170150704,1701507,5,150704,Sarilhos Grandes
+170150709,1701507,5,150709,União das freguesias de Atalaia e Alto Estanqueiro-Jardia
+170150710,1701507,5,150710,União das freguesias de Montijo e Afonsoeiro
+170150711,1701507,5,150711,União das freguesias de Pegões
+170111603,1701116,5,111603,Odivelas
+170111608,1701116,5,111608,União das freguesias de Pontinha e Famões
+170111609,1701116,5,111609,União das freguesias de Póvoa de Santo Adrião e Olival Basto
+170111610,1701116,5,111610,União das freguesias de Ramada e Caneças
+170111002,1701110,5,111002,Barcarena
+170111009,1701110,5,111009,Porto Salvo
+170111012,1701110,5,111012,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo"
+170111013,1701110,5,111013,União das freguesias de Carnaxide e Queijas
+170111014,1701110,5,111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias"
+170150802,1701508,5,150802,Palmela
+170150803,1701508,5,150803,Pinhal Novo
+170150804,1701508,5,150804,Quinta do Anjo
+170150806,1701508,5,150806,União das freguesias de Poceirão e Marateca
+170151002,1701510,5,151002,Amora
+170151005,1701510,5,151005,Corroios
+170151006,1701510,5,151006,Fernão Ferro
+170151007,1701510,5,151007,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+170151103,1701511,5,151103,Quinta do Conde
+170151101,1701511,5,151101,Sesimbra (Castelo)
+170151102,1701511,5,151102,Sesimbra (Santiago)
+170151207,1701512,5,151207,Gâmbia-Pontes-Alto da Guerra
+170151208,1701512,5,151208,Sado
+170151205,1701512,5,151205,Setúbal (São Sebastião)
+170151209,1701512,5,151209,União das freguesias de Azeitão (São Lourenço e São Simão)
+170151210,1701512,5,151210,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)"
+170111102,1701111,5,111102,Algueirão-Mem Martins
+170111115,1701111,5,111115,Casal de Cambra
+170111105,1701111,5,111105,Colares
+170111108,1701111,5,111108,Rio de Mouro
+170111122,1701111,5,111122,União das freguesias de Agualva e Mira-Sintra
+170111123,1701111,5,111123,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar"
+170111125,1701111,5,111125,União das freguesias de Massamá e Monte Abraão
+170111126,1701111,5,111126,União das freguesias de Queluz e Belas
+170111127,1701111,5,111127,União das freguesias de São João das Lampas e Terrugem
+170111128,1701111,5,111128,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)"
+170111124,1701111,5,111124,União das freguesias do Cacém e São Marcos
+170111412,1701114,5,111412,"União das freguesias de Alhandra, São João dos Montes e Calhandriz"
+170111413,1701114,5,111413,União das freguesias de Alverca do Ribatejo e Sobralinho
+170111414,1701114,5,111414,União das freguesias de Castanheira do Ribatejo e Cachoeiras
+170111415,1701114,5,111415,União das freguesias de Póvoa de Santa Iria e Forte da Casa
+170111408,1701114,5,111408,Vialonga
+170111409,1701114,5,111409,Vila Franca de Xira
+181150106,1811501,5,150106,Comporta
+181150105,1811501,5,150105,São Martinho
+181150104,1811501,5,150104,Torrão
+181150107,1811501,5,150107,União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana
+181150501,1811505,5,150501,Azinheira dos Barros e São Mamede do Sádão
+181150505,1811505,5,150505,Carvalhal
+181150503,1811505,5,150503,Melides
+181150506,1811505,5,150506,União das freguesias de Grândola e Santa Margarida da Serra
+181021116,1810211,5,021116,Boavista dos Pinheiros
+181021118,1810211,5,021118,Colos
+181021117,1810211,5,021117,Longueira/Almograve
+181021115,1810211,5,021115,Luzianes-Gare
+181021102,1810211,5,021102,Relíquias
+181021103,1810211,5,021103,Sabóia
+181021119,1810211,5,021119,Santa Clara-a-Velha
+181021106,1810211,5,021106,São Luís
+181021107,1810211,5,021107,São Martinho das Amoreiras
+181021120,1810211,5,021120,São Salvador e Santa Maria
+181021121,1810211,5,021121,São Teotónio
+181021122,1810211,5,021122,Vale de Santiago
+181021111,1810211,5,021111,Vila Nova de Milfontes
+181150901,1811509,5,150901,Abela
+181150902,1811509,5,150902,Alvalade
+181150903,1811509,5,150903,Cercal
+181150904,1811509,5,150904,Ermidas-Sado
+181150907,1811509,5,150907,Santo André
+181150910,1811509,5,150910,São Francisco da Serra
+181150912,1811509,5,150912,"União das freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra"
+181150913,1811509,5,150913,União das freguesias de São Domingos e Vale de Água
+181151302,1811513,5,151302,Porto Covo
+181151301,1811513,5,151301,Sines
+184020102,1840201,5,020102,Ervidel
+184020103,1840201,5,020103,Messejana
+184020104,1840201,5,020104,São João de Negrilhos
+184020106,1840201,5,020106,União das freguesias de Aljustrel e Rio de Moinhos
+184020208,1840202,5,020208,Aldeia dos Fernandes
+184020203,1840202,5,020203,Rosário
+184020205,1840202,5,020205,Santa Cruz
+184020206,1840202,5,020206,São Barnabé
+184020209,1840202,5,020209,União das freguesias de Almodôvar e Graça dos Padrões
+184020210,1840202,5,020210,União das freguesias de Santa Clara-a-Nova e Gomes Aires
+184020301,1840203,5,020301,Alvito
+184020302,1840203,5,020302,Vila Nova da Baronia
+184020401,1840204,5,020401,Barrancos
+184020502,1840205,5,020502,Baleizão
+184020503,1840205,5,020503,Beringel
+184020504,1840205,5,020504,Cabeça Gorda
+184020506,1840205,5,020506,Nossa Senhora das Neves
+184020510,1840205,5,020510,Santa Clara de Louredo
+184020516,1840205,5,020516,São Matias
+184020519,1840205,5,020519,União das freguesias de Albernoa e Trindade
+184020520,1840205,5,020520,União das freguesias de Beja (Salvador e Santa Maria da Feira)
+184020521,1840205,5,020521,União das freguesias de Beja (Santiago Maior e São João Baptista)
+184020522,1840205,5,020522,União das freguesias de Salvada e Quintos
+184020523,1840205,5,020523,União das freguesias de Santa Vitória e Mombeja
+184020524,1840205,5,020524,União das freguesias de Trigaches e São Brissos
+184020603,1840206,5,020603,Entradas
+184020604,1840206,5,020604,Santa Bárbara de Padrões
+184020605,1840206,5,020605,São Marcos da Ataboeira
+184020606,1840206,5,020606,União das freguesias de Castro Verde e Casével
+184020701,1840207,5,020701,Cuba
+184020702,1840207,5,020702,Faro do Alentejo
+184020703,1840207,5,020703,Vila Alva
+184020704,1840207,5,020704,Vila Ruiva
+184020803,1840208,5,020803,Figueira dos Cavaleiros
+184020804,1840208,5,020804,Odivelas
+184020807,1840208,5,020807,União das freguesias de Alfundão e Peroguarda
+184020808,1840208,5,020808,União das freguesias de Ferreira do Alentejo e Canhestros
+184020901,1840209,5,020901,Alcaria Ruiva
+184020902,1840209,5,020902,Corte do Pinto
+184020903,1840209,5,020903,Espírito Santo
+184020904,1840209,5,020904,Mértola
+184020905,1840209,5,020905,Santana de Cambas
+184020906,1840209,5,020906,São João dos Caldeireiros
+184020910,1840209,5,020910,"União das freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros"
+184021001,1840210,5,021001,Amareleja
+184021002,1840210,5,021002,Póvoa de São Miguel
+184021008,1840210,5,021008,Sobral da Adiça
+184021009,1840210,5,021009,União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador
+184021010,1840210,5,021010,União das freguesias de Safara e Santo Aleixo da Restauração
+184021203,1840212,5,021203,Ourique
+184021206,1840212,5,021206,Santana da Serra
+184021207,1840212,5,021207,União das freguesias de Garvão e Santa Luzia
+184021208,1840212,5,021208,União das freguesias de Panoias e Conceição
+184021302,1840213,5,021302,Brinches
+184021303,1840213,5,021303,Pias
+184021308,1840213,5,021308,União das freguesias de Serpa (Salvador e Santa Maria)
+184021309,1840213,5,021309,União das freguesias de Vila Nova de São Bento e Vale de Vargo
+184021307,1840213,5,021307,Vila Verde de Ficalho
+184021401,1840214,5,021401,Pedrógão
+184021402,1840214,5,021402,Selmes
+184021403,1840214,5,021403,Vidigueira
+184021404,1840214,5,021404,Vila de Frades
+185140301,1851403,5,140301,Almeirim
+185140302,1851403,5,140302,Benfica do Ribatejo
+185140303,1851403,5,140303,Fazendas de Almeirim
+185140304,1851403,5,140304,Raposa
+185140401,1851404,5,140401,Alpiarça
+185110301,1851103,5,110301,Alcoentre
+185110302,1851103,5,110302,Aveiras de Baixo
+185110303,1851103,5,110303,Aveiras de Cima
+185110304,1851103,5,110304,Azambuja
+185110310,1851103,5,110310,"União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa"
+185110306,1851103,5,110306,Vale do Paraíso
+185110307,1851103,5,110307,Vila Nova da Rainha
+185140504,1851405,5,140504,Barrosa
+185140501,1851405,5,140501,Benavente
+185140502,1851405,5,140502,Samora Correia
+185140503,1851405,5,140503,Santo Estêvão
+185140604,1851406,5,140604,Pontével
+185140610,1851406,5,140610,União das freguesias de Ereira e Lapa
+185140609,1851406,5,140609,União das freguesias do Cartaxo e Vale da Pinta
+185140605,1851406,5,140605,Valada
+185140608,1851406,5,140608,Vale da Pedra
+185140607,1851406,5,140607,Vila Chã de Ourique
+185140707,1851407,5,140707,Carregueira
+185140704,1851407,5,140704,Ulme
+185140708,1851407,5,140708,União das freguesias da Chamusca e Pinheiro Grande
+185140709,1851407,5,140709,União das freguesias de Parreira e Chouto
+185140705,1851407,5,140705,Vale de Cavalos
+185140907,1851409,5,140907,Biscainho
+185140905,1851409,5,140905,Branca
+185140902,1851409,5,140902,Couço
+185140908,1851409,5,140908,Santana do Mato
+185140903,1851409,5,140903,São José da Lamarosa
+185140909,1851409,5,140909,"União das freguesias de Coruche, Fajarda e Erra"
+185141201,1851412,5,141201,Azinhaga
+185141202,1851412,5,141202,Golegã
+185141203,1851412,5,141203,Pombalinho
+185141401,1851414,5,141401,Alcobertas
+185141402,1851414,5,141402,Arrouquelas
+185141410,1851414,5,141410,Asseiceira
+185141405,1851414,5,141405,Fráguas
+185141408,1851414,5,141408,Rio Maior
+185141411,1851414,5,141411,São Sebastião
+185141415,1851414,5,141415,União das freguesias de Azambujeira e Malaqueijo
+185141416,1851414,5,141416,União das freguesias de Marmeleira e Assentiz
+185141417,1851414,5,141417,União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões
+185141418,1851414,5,141418,União das freguesias de São João da Ribeira e Ribeira de São João
+185141502,1851415,5,141502,Marinhais
+185141503,1851415,5,141503,Muge
+185141507,1851415,5,141507,União das freguesias de Glória do Ribatejo e Granho
+185141508,1851415,5,141508,União das freguesias de Salvaterra de Magos e Foros de Salvaterra
+185141601,1851416,5,141601,Abitureiras
+185141602,1851416,5,141602,Abrã
+185141604,1851416,5,141604,Alcanede
+185141605,1851416,5,141605,Alcanhões
+185141606,1851416,5,141606,Almoster
+185141607,1851416,5,141607,Amiais de Baixo
+185141608,1851416,5,141608,Arneiro das Milhariças
+185141628,1851416,5,141628,Gançaria
+185141613,1851416,5,141613,Moçarria
+185141614,1851416,5,141614,Pernes
+185141616,1851416,5,141616,Póvoa da Isenta
+185141629,1851416,5,141629,"União das freguesias de Achete, Azoia de Baixo e Póvoa de Santarém"
+185141630,1851416,5,141630,União das freguesias de Azoia de Cima e Tremês
+185141631,1851416,5,141631,União das freguesias de Casével e Vaqueiros
+185141632,1851416,5,141632,União das freguesias de Romeira e Várzea
+185141633,1851416,5,141633,"União das freguesias de Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau)"
+185141634,1851416,5,141634,União das freguesias de São Vicente do Paul e Vale de Figueira
+185141625,1851416,5,141625,Vale de Santarém
+186120101,1861201,5,120101,Alter do Chão
+186120102,1861201,5,120102,Chancelaria
+186120104,1861201,5,120104,Cunheira
+186120103,1861201,5,120103,Seda
+186120201,1861202,5,120201,Assunção
+186120202,1861202,5,120202,Esperança
+186120203,1861202,5,120203,Mosteiros
+186120302,1861203,5,120302,Aldeia Velha
+186120303,1861203,5,120303,Avis
+186120305,1861203,5,120305,Ervedal
+186120306,1861203,5,120306,Figueira e Barros
+186120309,1861203,5,120309,União das freguesias de Alcórrego e Maranhão
+186120310,1861203,5,120310,União das freguesias de Benavila e Valongo
+186120401,1861204,5,120401,Nossa Senhora da Expectação
+186120402,1861204,5,120402,Nossa Senhora da Graça dos Degolados
+186120403,1861204,5,120403,São João Baptista
+186120501,1861205,5,120501,Nossa Senhora da Graça de Póvoa e Meadas
+186120502,1861205,5,120502,Santa Maria da Devesa
+186120503,1861205,5,120503,Santiago Maior
+186120504,1861205,5,120504,São João Baptista
+186120601,1861206,5,120601,Aldeia da Mata
+186120604,1861206,5,120604,Gáfete
+186120605,1861206,5,120605,Monte da Pedra
+186120607,1861206,5,120607,"União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso"
+186120712,1861207,5,120712,"Assunção, Ajuda, Salvador e Santo Ildefonso"
+186120713,1861207,5,120713,"Caia, São Pedro e Alcáçova"
+186120706,1861207,5,120706,Santa Eulália
+186120707,1861207,5,120707,São Brás e São Lourenço
+186120708,1861207,5,120708,São Vicente e Ventosa
+186120714,1861207,5,120714,União das freguesias de Barbacena e Vila Fernando
+186120715,1861207,5,120715,União das freguesias de Terrugem e Vila Boim
+186120801,1861208,5,120801,Cabeço de Vide
+186120802,1861208,5,120802,Fronteira
+186120803,1861208,5,120803,São Saturnino
+186120902,1861209,5,120902,Belver
+186120903,1861209,5,120903,Comenda
+186120905,1861209,5,120905,Margem
+186120906,1861209,5,120906,União das freguesias de Gavião e Atalaia
+186121001,1861210,5,121001,Beirã
+186121002,1861210,5,121002,Santa Maria de Marvão
+186121003,1861210,5,121003,Santo António das Areias
+186121004,1861210,5,121004,São Salvador da Aramenha
+186121101,1861211,5,121101,Assumar
+186121102,1861211,5,121102,Monforte
+186121103,1861211,5,121103,Santo Aleixo
+186121104,1861211,5,121104,Vaiamonte
+186121201,1861212,5,121201,Alpalhão
+186121205,1861212,5,121205,Montalvão
+186121207,1861212,5,121207,Santana
+186121208,1861212,5,121208,São Matias
+186121210,1861212,5,121210,Tolosa
+186121211,1861212,5,121211,União das freguesias de Arez e Amieira do Tejo
+186121212,1861212,5,121212,"União das freguesias de Espírito Santo, Nossa Senhora da Graça e São Simão"
+186121304,1861213,5,121304,Foros de Arrão
+186121301,1861213,5,121301,Galveias
+186121305,1861213,5,121305,Longomel
+186121302,1861213,5,121302,Montargil
+186121308,1861213,5,121308,"União das freguesias de Ponte de Sor, Tramaga e Vale de Açor"
+186121401,1861214,5,121401,Alagoa
+186121402,1861214,5,121402,Alegrete
+186121404,1861214,5,121404,Fortios
+186121411,1861214,5,121411,União das freguesias da Sé e São Lourenço
+186121412,1861214,5,121412,União das freguesias de Reguengo e São Julião
+186121413,1861214,5,121413,União das freguesias de Ribeira de Nisa e Carreiras
+186121410,1861214,5,121410,Urra
+186121501,1861215,5,121501,Cano
+186121502,1861215,5,121502,Casa Branca
+186121503,1861215,5,121503,Santo Amaro
+186121504,1861215,5,121504,Sousel
+187070104,1870701,5,070104,Capelins (Santo António)
+187070103,1870701,5,070103,Santiago Maior
+187070105,1870701,5,070105,Terena (São Pedro)
+187070107,1870701,5,070107,"União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto)"
+187070201,1870702,5,070201,Arraiolos
+187070202,1870702,5,070202,Igrejinha
+187070208,1870702,5,070208,União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro
+187070209,1870702,5,070209,União das freguesias de São Gregório e Santa Justa
+187070206,1870702,5,070206,Vimieiro
+187070301,1870703,5,070301,Borba (Matriz)
+187070304,1870703,5,070304,Borba (São Bartolomeu)
+187070302,1870703,5,070302,Orada
+187070303,1870703,5,070303,Rio de Moinhos
+187070401,1870704,5,070401,Arcos
+187070404,1870704,5,070404,Évora Monte (Santa Maria)
+187070402,1870704,5,070402,Glória
+187070411,1870704,5,070411,São Domingos de Ana Loura
+187070414,1870704,5,070414,União das freguesias de Estremoz (Santa Maria e Santo André)
+187070415,1870704,5,070415,União das freguesias de São Bento do Cortiço e Santo Estêvão
+187070416,1870704,5,070416,União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura
+187070417,1870704,5,070417,União das freguesias do Ameixial (Santa Vitória e São Bento)
+187070413,1870704,5,070413,Veiros
+187070515,1870705,5,070515,Canaviais
+187070502,1870705,5,070502,Nossa Senhora da Graça do Divor
+187070503,1870705,5,070503,Nossa Senhora de Machede
+187070506,1870705,5,070506,São Bento do Mato
+187070509,1870705,5,070509,São Miguel de Machede
+187070513,1870705,5,070513,Torre de Coelheiros
+187070522,1870705,5,070522,União das freguesias de Bacelo e Senhora da Saúde
+187070523,1870705,5,070523,"União das freguesias de Évora (São Mamede, Sé, São Pedro e Santo Antão)"
+187070524,1870705,5,070524,União das freguesias de Malagueira e Horta das Figueiras
+187070525,1870705,5,070525,União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe
+187070526,1870705,5,070526,União das freguesias de São Manços e São Vicente do Pigeiro
+187070527,1870705,5,070527,União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé
+187070601,1870706,5,070601,Cabrela
+187070607,1870706,5,070607,Ciborro
+187070610,1870706,5,070610,Foros de Vale de Figueira
+187070605,1870706,5,070605,Santiago do Escoural
+187070606,1870706,5,070606,São Cristóvão
+187070611,1870706,5,070611,União das freguesias de Cortiçadas de Lavre e Lavre
+187070612,1870706,5,070612,"União das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras"
+187070701,1870707,5,070701,Brotas
+187070702,1870707,5,070702,Cabeção
+187070703,1870707,5,070703,Mora
+187070704,1870707,5,070704,Pavia
+187070801,1870708,5,070801,Granja
+187070802,1870708,5,070802,Luz
+187070803,1870708,5,070803,Mourão
+187070903,1870709,5,070903,Monte do Trigo
+187070905,1870709,5,070905,Portel
+187070906,1870709,5,070906,Santana
+187070909,1870709,5,070909,União das freguesias de Amieira e Alqueva
+187070910,1870709,5,070910,União das freguesias de São Bartolomeu do Outeiro e Oriola
+187070908,1870709,5,070908,Vera Cruz
+187071001,1870710,5,071001,Montoito
+187071002,1870710,5,071002,Redondo
+187071102,1870711,5,071102,Corval
+187071103,1870711,5,071103,Monsaraz
+187071104,1870711,5,071104,Reguengos de Monsaraz
+187071106,1870711,5,071106,União das freguesias de Campo e Campinho
+187071202,1870712,5,071202,Landeira
+187071201,1870712,5,071201,Vendas Novas
+187071303,1870713,5,071303,Aguiar
+187071301,1870713,5,071301,Alcáçovas
+187071302,1870713,5,071302,Viana do Alentejo
+187071401,1870714,5,071401,Bencatel
+187071402,1870714,5,071402,Ciladas
+187071406,1870714,5,071406,Nossa Senhora da Conceição e São Bartolomeu
+187071404,1870714,5,071404,Pardais
+150080106,1500801,5,080106,Albufeira e Olhos de Água
+150080104,1500801,5,080104,Ferreiras
+150080102,1500801,5,080102,Guia
+150080103,1500801,5,080103,Paderne
+150080202,1500802,5,080202,Giões
+150080203,1500802,5,080203,Martim Longo
+150080206,1500802,5,080206,União das freguesias de Alcoutim e Pereiro
+150080205,1500802,5,080205,Vaqueiros
+150080301,1500803,5,080301,Aljezur
+150080302,1500803,5,080302,Bordeira
+150080303,1500803,5,080303,Odeceixe
+150080304,1500803,5,080304,Rogil
+150080404,1500804,5,080404,Altura
+150080401,1500804,5,080401,Azinhal
+150080402,1500804,5,080402,Castro Marim
+150080403,1500804,5,080403,Odeleite
+150080506,1500805,5,080506,Montenegro
+150080503,1500805,5,080503,Santa Bárbara de Nexe
+150080507,1500805,5,080507,União das freguesias de Conceição e Estoi
+150080508,1500805,5,080508,União das freguesias de Faro (Sé e São Pedro)
+150080602,1500806,5,080602,Ferragudo
+150080604,1500806,5,080604,Porches
+150080607,1500806,5,080607,União das freguesias de Estômbar e Parchal
+150080608,1500806,5,080608,União das freguesias de Lagoa e Carvoeiro
+150080703,1500807,5,080703,Luz
+150080704,1500807,5,080704,Odiáxere
+150080707,1500807,5,080707,União das freguesias de Bensafrim e Barão de São João
+150080708,1500807,5,080708,União das freguesias de Lagos (São Sebastião e Santa Maria)
+150080801,1500808,5,080801,Almancil
+150080802,1500808,5,080802,Alte
+150080803,1500808,5,080803,Ameixial
+150080804,1500808,5,080804,Boliqueime
+150080808,1500808,5,080808,Loulé (São Clemente)
+150080809,1500808,5,080809,Loulé (São Sebastião)
+150080805,1500808,5,080805,Quarteira
+150080807,1500808,5,080807,Salir
+150080812,1500808,5,080812,"União de freguesias de Querença, Tôr e Benafim"
+150080901,1500809,5,080901,Alferce
+150080902,1500809,5,080902,Marmelete
+150080903,1500809,5,080903,Monchique
+150081003,1500810,5,081003,Olhão
+150081004,1500810,5,081004,Pechão
+150081005,1500810,5,081005,Quelfes
+150081006,1500810,5,081006,União das freguesias de Moncarapacho e Fuseta
+150081101,1500811,5,081101,Alvor
+150081102,1500811,5,081102,Mexilhoeira Grande
+150081103,1500811,5,081103,Portimão
+150081201,1500812,5,081201,São Brás de Alportel
+150081303,1500813,5,081303,Armação de Pêra
+150081305,1500813,5,081305,São Bartolomeu de Messines
+150081306,1500813,5,081306,São Marcos da Serra
+150081307,1500813,5,081307,Silves
+150081309,1500813,5,081309,União das freguesias de Alcantarilha e Pêra
+150081310,1500813,5,081310,União das freguesias de Algoz e Tunes
+150081401,1500814,5,081401,Cachopo
+150081404,1500814,5,081404,Santa Catarina da Fonte do Bispo
+150081408,1500814,5,081408,Santa Luzia
+150081410,1500814,5,081410,União das freguesias de Conceição e Cabanas de Tavira
+150081411,1500814,5,081411,União das freguesias de Luz de Tavira e Santo Estêvão
+150081412,1500814,5,081412,União das freguesias de Tavira (Santa Maria e Santiago)
+150081501,1500815,5,081501,Barão de São Miguel
+150081502,1500815,5,081502,Budens
+150081504,1500815,5,081504,Sagres
+150081506,1500815,5,081506,Vila do Bispo e Raposeira
+150081603,1500816,5,081603,Monte Gordo
+150081601,1500816,5,081601,Vila Nova de Cacela
+150081602,1500816,5,081602,Vila Real de Santo António
+200430101,2004301,5,430101,Altares
+200430102,2004301,5,430102,Angra (Nossa Senhora da Conceição)
+200430103,2004301,5,430103,Angra (Santa Luzia)
+200430104,2004301,5,430104,Angra (São Pedro)
+200430105,2004301,5,430105,Angra (Sé)
+200430106,2004301,5,430106,Cinco Ribeiras
+200430107,2004301,5,430107,Doze Ribeiras
+200430108,2004301,5,430108,Feteira
+200430109,2004301,5,430109,Porto Judeu
+200430110,2004301,5,430110,Posto Santo
+200430111,2004301,5,430111,Raminho
+200430112,2004301,5,430112,Ribeirinha
+200430113,2004301,5,430113,Santa Bárbara
+200430114,2004301,5,430114,São Bartolomeu de Regatos
+200430115,2004301,5,430115,São Bento
+200430116,2004301,5,430116,São Mateus da Calheta
+200430117,2004301,5,430117,Serreta
+200430118,2004301,5,430118,Terra Chã
+200430119,2004301,5,430119,Vila de São Sebastião
+200450101,2004501,5,450101,Calheta
+200450102,2004501,5,450102,Norte Pequeno
+200450103,2004501,5,450103,Ribeira Seca
+200450104,2004501,5,450104,Santo Antão
+200450105,2004501,5,450105,Topo (Nossa Senhora do Rosário)
+200490101,2004901,5,490101,Corvo
+200470101,2004701,5,470101,Capelo
+200470102,2004701,5,470102,Castelo Branco
+200470103,2004701,5,470103,Cedros
+200470104,2004701,5,470104,Feteira
+200470105,2004701,5,470105,Flamengos
+200470106,2004701,5,470106,Horta (Angústias)
+200470107,2004701,5,470107,Horta (Conceição)
+200470108,2004701,5,470108,Horta (Matriz)
+200470109,2004701,5,470109,Pedro Miguel
+200470110,2004701,5,470110,Praia do Almoxarife
+200470111,2004701,5,470111,Praia do Norte
+200470112,2004701,5,470112,Ribeirinha
+200470113,2004701,5,470113,Salão
+200420101,2004201,5,420101,Água de Pau
+200420102,2004201,5,420102,Cabouco
+200420103,2004201,5,420103,Lagoa (Nossa Senhora do Rosário)
+200420104,2004201,5,420104,Lagoa (Santa Cruz)
+200420105,2004201,5,420105,Ribeira Chã
+200480101,2004801,5,480101,Fajã Grande
+200480102,2004801,5,480102,Fajãzinha
+200480103,2004801,5,480103,Fazenda
+200480104,2004801,5,480104,Lajedo
+200480105,2004801,5,480105,Lajes das Flores
+200480106,2004801,5,480106,Lomba
+200480107,2004801,5,480107,Mosteiro
+200460101,2004601,5,460101,Calheta de Nesquim
+200460102,2004601,5,460102,Lajes do Pico
+200460103,2004601,5,460103,Piedade
+200460104,2004601,5,460104,Ribeiras
+200460105,2004601,5,460105,Ribeirinha
+200460106,2004601,5,460106,São João
+200460201,2004602,5,460201,Bandeiras
+200460202,2004602,5,460202,Candelária
+200460203,2004602,5,460203,Criação Velha
+200460204,2004602,5,460204,Madalena
+200460205,2004602,5,460205,São Caetano
+200460206,2004602,5,460206,São Mateus
+200420201,2004202,5,420201,Achada
+200420202,2004202,5,420202,Achadinha
+200420208,2004202,5,420208,Algarvia
+200420203,2004202,5,420203,Lomba da Fazenda
+200420204,2004202,5,420204,Nordeste
+200420206,2004202,5,420206,Salga
+200420207,2004202,5,420207,Santana
+200420209,2004202,5,420209,Santo António de Nordestinho
+200420210,2004202,5,420210,São Pedro de Nordestinho
+200420323,2004203,5,420323,Ajuda da Bretanha
+200420301,2004203,5,420301,Arrifes
+200420303,2004203,5,420303,Candelária
+200420304,2004203,5,420304,Capelas
+200420305,2004203,5,420305,Covoada
+200420306,2004203,5,420306,Fajã de Baixo
+200420307,2004203,5,420307,Fajã de Cima
+200420308,2004203,5,420308,Fenais da Luz
+200420309,2004203,5,420309,Feteiras
+200420310,2004203,5,420310,Ginetes
+200420311,2004203,5,420311,Mosteiros
+200420324,2004203,5,420324,Pilar da Bretanha
+200420313,2004203,5,420313,Ponta Delgada (São José)
+200420314,2004203,5,420314,Ponta Delgada (São Pedro)
+200420312,2004203,5,420312,Ponta Delgada (São Sebastião)
+200420315,2004203,5,420315,Relva
+200420316,2004203,5,420316,Remédios
+200420317,2004203,5,420317,Rosto do Cão (Livramento)
+200420318,2004203,5,420318,Rosto do Cão (São Roque)
+200420319,2004203,5,420319,Santa Bárbara
+200420325,2004203,5,420325,Santa Clara
+200420320,2004203,5,420320,Santo António
+200420321,2004203,5,420321,São Vicente Ferreira
+200420322,2004203,5,420322,Sete Cidades
+200420401,2004204,5,420401,Água Retorta
+200420402,2004204,5,420402,Faial da Terra
+200420403,2004204,5,420403,Furnas
+200420404,2004204,5,420404,Nossa Senhora dos Remédios
+200420405,2004204,5,420405,Povoação
+200420406,2004204,5,420406,Ribeira Quente
+200420501,2004205,5,420501,Calhetas
+200420502,2004205,5,420502,Fenais da Ajuda
+200420503,2004205,5,420503,Lomba da Maia
+200420504,2004205,5,420504,Lomba de São Pedro
+200420505,2004205,5,420505,Maia
+200420506,2004205,5,420506,Pico da Pedra
+200420507,2004205,5,420507,Porto Formoso
+200420508,2004205,5,420508,Rabo de Peixe
+200420509,2004205,5,420509,Ribeira Grande (Conceição)
+200420510,2004205,5,420510,Ribeira Grande (Matriz)
+200420511,2004205,5,420511,Ribeira Seca
+200420512,2004205,5,420512,Ribeirinha
+200420513,2004205,5,420513,Santa Bárbara
+200420514,2004205,5,420514,São Brás
+200440101,2004401,5,440101,Guadalupe
+200440102,2004401,5,440102,Luz
+200440104,2004401,5,440104,Santa Cruz da Graciosa
+200440103,2004401,5,440103,São Mateus
+200480201,2004802,5,480201,Caveira
+200480202,2004802,5,480202,Cedros
+200480203,2004802,5,480203,Ponta Delgada
+200480204,2004802,5,480204,Santa Cruz das Flores
+200460301,2004603,5,460301,Prainha
+200460302,2004603,5,460302,Santa Luzia
+200460303,2004603,5,460303,Santo Amaro
+200460304,2004603,5,460304,Santo António
+200460305,2004603,5,460305,São Roque do Pico
+200450201,2004502,5,450201,Manadas (Santa Bárbara)
+200450202,2004502,5,450202,Norte Grande (Neves)
+200450203,2004502,5,450203,Rosais
+200450204,2004502,5,450204,Santo Amaro
+200450205,2004502,5,450205,Urzelina (São Mateus)
+200450206,2004502,5,450206,Velas (São Jorge)
+200430201,2004302,5,430201,Agualva
+200430202,2004302,5,430202,Biscoitos
+200430203,2004302,5,430203,Cabo da Praia
+200430204,2004302,5,430204,Fonte do Bastardo
+200430205,2004302,5,430205,Fontinhas
+200430206,2004302,5,430206,Lajes
+200430211,2004302,5,430211,Porto Martins
+200430207,2004302,5,430207,Praia da Vitória (Santa Cruz)
+200430208,2004302,5,430208,Quatro Ribeiras
+200430209,2004302,5,430209,São Brás
+200430210,2004302,5,430210,Vila Nova
+200410101,2004101,5,410101,Almagreira
+200410102,2004101,5,410102,Santa Bárbara
+200410103,2004101,5,410103,Santo Espírito
+200410104,2004101,5,410104,São Pedro
+200410105,2004101,5,410105,Vila do Porto
+200420601,2004206,5,420601,Água de Alto
+200420602,2004206,5,420602,Ponta Garça
+200420603,2004206,5,420603,Ribeira das Tainhas
+200420606,2004206,5,420606,Ribeira Seca
+200420604,2004206,5,420604,Vila Franca do Campo (São Miguel)
+200420605,2004206,5,420605,Vila Franca do Campo (São Pedro)
+300310101,3003101,5,310101,Arco da Calheta
+300310102,3003101,5,310102,Calheta
+300310103,3003101,5,310103,Estreito da Calheta
+300310104,3003101,5,310104,Fajã da Ovelha
+300310105,3003101,5,310105,Jardim do Mar
+300310106,3003101,5,310106,Paul do Mar
+300310107,3003101,5,310107,Ponta do Pargo
+300310108,3003101,5,310108,Prazeres
+300310201,3003102,5,310201,Câmara de Lobos
+300310202,3003102,5,310202,Curral das Freiras
+300310203,3003102,5,310203,Estreito de Câmara de Lobos
+300310205,3003102,5,310205,Jardim da Serra
+300310204,3003102,5,310204,Quinta Grande
+300310303,3003103,5,310303,Funchal (Santa Luzia)
+300310304,3003103,5,310304,Funchal (Santa Maria Maior)
+300310308,3003103,5,310308,Funchal (São Pedro)
+300310310,3003103,5,310310,Funchal (Sé)
+300310301,3003103,5,310301,Imaculado Coração de Maria
+300310302,3003103,5,310302,Monte
+300310305,3003103,5,310305,Santo António
+300310306,3003103,5,310306,São Gonçalo
+300310307,3003103,5,310307,São Martinho
+300310309,3003103,5,310309,São Roque
+300310401,3003104,5,310401,Água de Pena
+300310402,3003104,5,310402,Caniçal
+300310403,3003104,5,310403,Machico
+300310404,3003104,5,310404,Porto da Cruz
+300310405,3003104,5,310405,Santo António da Serra
+300310501,3003105,5,310501,Canhas
+300310502,3003105,5,310502,Madalena do Mar
+300310503,3003105,5,310503,Ponta do Sol
+300310601,3003106,5,310601,Achadas da Cruz
+300310602,3003106,5,310602,Porto Moniz
+300310603,3003106,5,310603,Ribeira da Janela
+300310604,3003106,5,310604,Seixal
+300320101,3003201,5,320101,Porto Santo
+300310701,3003107,5,310701,Campanário
+300310702,3003107,5,310702,Ribeira Brava
+300310703,3003107,5,310703,Serra de Água
+300310704,3003107,5,310704,Tabua
+300310802,3003108,5,310802,Camacha
+300310803,3003108,5,310803,Caniço
+300310804,3003108,5,310804,Gaula
+300310805,3003108,5,310805,Santa Cruz
+300310806,3003108,5,310806,Santo António da Serra
+300310901,3003109,5,310901,Arco de São Jorge
+300310902,3003109,5,310902,Faial
+300310906,3003109,5,310906,Ilha
+300310903,3003109,5,310903,Santana
+300310904,3003109,5,310904,São Jorge
+300310905,3003109,5,310905,São Roque do Faial
+300311001,3003110,5,311001,Boa Ventura
+300311002,3003110,5,311002,Ponta Delgada
+300311003,3003110,5,311003,São Vicente

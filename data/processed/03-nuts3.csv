@@ -1,0 +1,26 @@
+codes,parent_code,Nível,Código,Designação
+111,11,3,111,Alto Minho
+112,11,3,112,Cávado
+119,11,3,119,Ave
+11A,11,3,11A,Área Metropolitana do Porto
+11B,11,3,11B,Alto Tâmega
+11C,11,3,11C,Tâmega e Sousa
+11D,11,3,11D,Douro
+11E,11,3,11E,Terras de Trás-os-Montes
+16B,16,3,16B,Oeste
+16D,16,3,16D,Região de Aveiro
+16E,16,3,16E,Região de Coimbra
+16F,16,3,16F,Região de Leiria
+16G,16,3,16G,Viseu Dão Lafões
+16H,16,3,16H,Beira Baixa
+16I,16,3,16I,Médio Tejo
+16J,16,3,16J,Beiras e Serra da Estrela
+170,17,3,170,Área Metropolitana de Lisboa
+181,18,3,181,Alentejo Litoral
+184,18,3,184,Baixo Alentejo
+185,18,3,185,Lezíria do Tejo
+186,18,3,186,Alto Alentejo
+187,18,3,187,Alentejo Central
+150,15,3,150,Algarve
+200,20,3,200,Região Autónoma dos Açores
+300,30,3,300,Região Autónoma da Madeira
